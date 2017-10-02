@@ -9,6 +9,12 @@
         <mark key="^" line="51" column="67" />
         <mark key="." line="51" column="67" />
       </file>
+      <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/ecall_attestation.cpp" timestamp="1506975658834">
+        <mark key="[" line="76" column="9" />
+        <mark key="]" line="76" column="9" />
+        <mark key="." line="76" column="9" />
+        <mark key="^" line="76" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/test/rlp_test.cpp" timestamp="1506549970833">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="62" column="24" />
@@ -22,12 +28,12 @@
         <mark key="^" line="78" column="13" />
         <mark key="." line="78" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/eth_transaction.cpp" timestamp="1506697285015">
-        <mark key="'" line="236" column="19" />
-        <mark key="[" line="233" column="20" />
-        <mark key="]" line="234" column="16" />
-        <mark key="^" line="234" column="16" />
-        <mark key="." line="234" column="16" />
+      <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/eth_transaction.cpp" timestamp="1506974847675">
+        <mark key="'" line="234" column="19" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="^" line="232" column="16" />
+        <mark key="." line="254" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/balance.h" timestamp="1506026403260">
         <mark key="[" line="27" column="0" />
@@ -106,6 +112,11 @@
         <mark key="]" line="8" column="49" />
         <mark key="." line="8" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/attestation.cpp" timestamp="1506975803443">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/Enclave.edl" timestamp="1506627977985">
         <mark key="[" line="52" column="25" />
         <mark key="]" line="52" column="32" />
@@ -141,6 +152,12 @@
         <mark key="]" line="36" column="5" />
         <mark key="." line="36" column="5" />
         <mark key="^" line="36" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/status.json" timestamp="1506975842140">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_balance.cpp" timestamp="1506629463181">
         <mark key="'" line="156" column="0" />
@@ -231,6 +248,12 @@
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
         <mark key="^" line="83" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/status_rpc_server.cpp" timestamp="1506976233276">
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="9" />
+        <mark key="^" line="68" column="9" />
+        <mark key="." line="68" column="9" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/merkle_data.h" timestamp="1506626437864">
         <mark key="[" line="10" column="20" />
@@ -360,6 +383,12 @@
         <mark key="]" line="24" column="39" />
         <mark key="." line="24" column="39" />
         <mark key="^" line="24" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/status_rpc_server.h" timestamp="1506975890366">
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="9" />
+        <mark key="." line="68" column="9" />
+        <mark key="^" line="68" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1506694969095">
         <mark key="[" line="0" column="0" />
@@ -596,46 +625,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gIEJZVEUgYl9ub25jZSA9IGl0b2Iobm9uY2UpOwovLyAgdHgubV9ub25jZS5yZXBsYWNlKGJfbm9uY2UpOwovLyAgdHgubV9nYXNQcmljZS5mcm9tX2hleChHQVNQUklDRSk7Ci8vICB0eC5tX2dhcy5mcm9tX2hleChHQVNMSU1JVCk7Ci8vICB0eC5tX3RvLmZyb21faGV4KFRDX0FERFJFU1MpOwovLyAgdHgubV92YWx1ZS5jbGVhcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0x18322346bfb90378ceaf16c72cee4496723636b9</text>
+        <text>quote</text>
       </register>
       <register name="/" type="4">
         <text>62</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAhbWVya2xlX3Byb29mW2RlcG9zaXQ6OkpTT046OkRJVlJFQ10uaXNJbnQoKSB8fAo=</text>
+        <text encoding="base64">ICAgIGludCBidWZfdXNlZCA9IGV4dDo6YjY0X250b3AoYXR0ZXN0YXRpb24uZGF0YSgpLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXR0ZXN0YXRpb24uc2l6ZSgpLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYjY0X2J1Ziwgc2l6ZW9mIGI2NF9idWYpOwogICAgaWYgKGJ1Zl91c2VkIDwgMCkgewogICAgICByZXN1bHRbInF1b3RlIl0gPSAiIjsKICAgIH0gZWxzZSB7CiAgICAgIHJlc3VsdFsicXVvdGUiXSA9IHN0cmluZyhiNjRfYnVmKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gIEJZVEUgYl9ub25jZSA9IGl0b2Iobm9uY2UpOwovLyAgdHgubV9ub25jZS5yZXBsYWNlKGJfbm9uY2UpOwovLyAgdHgubV9nYXNQcmljZS5mcm9tX2hleChHQVNQUklDRSk7Ci8vICB0eC5tX2dhcy5mcm9tX2hleChHQVNMSU1JVCk7Ci8vICB0eC5tX3RvLmZyb21faGV4KFRDX0FERFJFU1MpOwovLyAgdHgubV92YWx1ZS5jbGVhcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBMTF9DUklUSUNBTCgiZGF0YTogJXMiLCB0b19oZXgoZW5jb2RlZF9kZWxpdmVyeV9jYWxsLmRhdGEoKSwgZW5jb2RlZF9kZWxpdmVyeV9jYWxsLnNpemUoKSkuY19zdHIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXR0ZXN0YXRpb24uc2l6ZSgpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gZXh0OjpiNjRfZGVjb2RlKCJBaGhFbUpvcjE2elJKOTErMVJxaTlOVmJNdHUwRk41akphNDM0RndRWjFtTiIpLmRhdGEoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gZXh0OjpiNjRfZGVjb2RlKCJBOWZHQlNWRXZFTHJLOERTZkloQUZxMjVNL0ZWZHFHaTBoelUzUTh0NE1OOSIpLmRhdGEoKSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogYWRkIHB1YmtleSwgdGltZW91dCwgcmVmdW5kIHRvIHRoZSBweXRob24gc2NyaXB0Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBoZXhkdW1wKHR4ICsgaiwgMjApOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMTF9OT1RJQ0UoIiVzIiwgYmluMmhleChyZXMsIDIwKS5jX3N0cigpKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
