@@ -59,6 +59,7 @@
         <mark key="." line="316" column="43" />
         <mark key="^" line="316" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state.h" timestamp="1510761646951" />
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/merkle.h" timestamp="1505943690649">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="0" column="0" />
@@ -130,11 +131,12 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="59" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.cpp" timestamp="1510692929792">
-        <mark key="[" line="266" column="87" />
-        <mark key="]" line="308" column="16" />
-        <mark key="^" line="308" column="16" />
-        <mark key="." line="308" column="16" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.cpp" timestamp="1510761573894">
+        <mark key="'" line="93" column="22" />
+        <mark key="[" line="139" column="26" />
+        <mark key="]" line="239" column="34" />
+        <mark key="^" line="239" column="34" />
+        <mark key="." line="239" column="34" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/test/ups_test.cpp" timestamp="1506622174861">
         <mark key="[" line="65" column="0" />
@@ -183,11 +185,11 @@
         <mark key="." line="115" column="23" />
         <mark key="^" line="115" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_TLS.cpp" timestamp="1510693027990">
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_TLS.cpp" timestamp="1510761828025">
         <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="47" />
-        <mark key="." line="62" column="0" />
+        <mark key="]" line="62" column="0" />
         <mark key="^" line="61" column="31" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave_rpc.cpp" timestamp="1506628796609">
         <mark key="'" line="47" column="14" />
@@ -371,6 +373,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="29" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/tls_server_threaded_u.cpp" timestamp="1510762148332">
+        <mark key="[" line="104" column="50" />
+        <mark key="]" line="104" column="51" />
+        <mark key="." line="104" column="51" />
+        <mark key="^" line="104" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_ecall_interface.cpp" timestamp="1506028481226">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -389,7 +397,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_server_threaded_t.cpp" timestamp="1510692721488">
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_server_threaded_t.cpp" timestamp="1510762131460">
         <mark key="[" line="207" column="33" />
         <mark key="]" line="207" column="35" />
         <mark key="^" line="207" column="35" />
@@ -535,8 +543,8 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.h" timestamp="1510760735697">
-        <mark key="[" line="68" column="85" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.h" timestamp="1510761240256">
+        <mark key="[" line="66" column="16" />
         <mark key="]" line="68" column="85" />
         <mark key="^" line="68" column="102" />
         <mark key="." line="68" column="85" />
@@ -556,7 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="1" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkpath/merkpath.cpp" />
       <jump line="308" column="5" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkpath/merkpath.cpp" />
       <jump line="351" column="2" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkpath/merkpath.cpp" />
       <jump line="352" column="2" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkpath/merkpath.cpp" />
@@ -656,58 +663,59 @@
       <jump line="36" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave_rpc.cpp" />
       <jump line="94" column="59" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave_rpc.cpp" />
       <jump line="47" column="14" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave_rpc.cpp" />
+      <jump line="93" column="22" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>client</text>
+        <text>TLSService</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>TLSService</text>
       </register>
       <register name="/" type="4">
-        <text>62</text>
+        <text>block</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0YXRlOjp0bHNDbGllbnQtPlNlbmRXYWl0UmVjdihkdW1teSwgb3V0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlOjp0bHNDbGllbnQtPlNlbmRXYWl0UmVjdihkdW1teSwgb3V0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0ZTo6dGxzQ2xpZW50LT5TZW5kV2FpdFJlY3YoZHVtbXksIG91dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBuX2RhdGE7Cg==</text>
+        <text encoding="base64">ICBzdGF0ZTo6dGxzQ2xpZW50LT5TZW5kV2FpdFJlY3YoZHVtbXksIG91dCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBuX2RhdGE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBMTF9ERUJVRygiY2xvc2luZyB0aGUgY29ubmVjdGlvbi4uLiIpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkbyByZXQgPSBtYmVkdGxzX3NzbF9jbG9zZV9ub3RpZnkoJnNzbCk7CiAgd2hpbGUgKHJldCA9PSBNQkVEVExTX0VSUl9TU0xfV0FOVF9XUklURSk7Cg==</text>
+        <text encoding="base64">ICBMTF9ERUJVRygiY2xvc2luZyB0aGUgY29ubmVjdGlvbi4uLiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBubyBlcnJvciBjaGVjaywgdGhlIGNvbm5lY3Rpb24gbWlnaHQgYmUgY2xvc2VkIGFscmVhZHkK</text>
+        <text encoding="base64">ICBkbyByZXQgPSBtYmVkdGxzX3NzbF9jbG9zZV9ub3RpZnkoJnNzbCk7CiAgd2hpbGUgKHJldCA9PSBNQkVEVExTX0VSUl9TU0xfV0FOVF9XUklURSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmV0Owo=</text>
+        <text encoding="base64">ICAvLyBubyBlcnJvciBjaGVjaywgdGhlIGNvbm5lY3Rpb24gbWlnaHQgYmUgY2xvc2VkIGFscmVhZHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmV0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
       </register>
     </registers>
     <search>
-      <last-search>62</last-search>
+      <last-search>block</last-search>
       <last-offset />
-      <last-pattern>62</last-pattern>
+      <last-pattern>block</last-pattern>
       <last-replace>auto</last-replace>
       <last-substitute>string</last-substitute>
       <last-dir>1</last-dir>
@@ -715,7 +723,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stderr</entry>
         <entry>feeding</entry>
         <entry>b64_</entry>
         <entry>testmain</entry>
@@ -735,6 +742,7 @@
         <entry>from_hex</entry>
         <entry>string</entry>
         <entry>62</entry>
+        <entry>block</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
