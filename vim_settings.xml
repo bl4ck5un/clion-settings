@@ -72,6 +72,13 @@
         <mark key="." line="55" column="32" />
         <mark key="^" line="55" column="32" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/enclave/Log.h" timestamp="1510862541511">
+        <mark key="'" line="50" column="6" />
+        <mark key="[" line="51" column="9" />
+        <mark key="]" line="51" column="8" />
+        <mark key="^" line="51" column="8" />
+        <mark key="." line="51" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/commons.cpp" timestamp="1506547437973">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="83" column="0" />
@@ -159,12 +166,18 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="25" column="68" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/enclave/ecalls.cpp" timestamp="1510861950289">
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="30" column="20" />
+        <mark key="^" line="31" column="54" />
+        <mark key="." line="30" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/exch-keygen.cpp" timestamp="1506627926396">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/CMakeLists.txt" timestamp="1510775958567">
+      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/CMakeLists.txt" timestamp="1510861718796">
         <mark key="[" line="10" column="40" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -179,11 +192,11 @@
         <mark key="]" line="182" column="36" />
         <mark key="." line="182" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/enclave/CMakeLists.txt" timestamp="1510776119578">
-        <mark key="[" line="39" column="60" />
-        <mark key="]" line="39" column="61" />
-        <mark key="." line="39" column="61" />
-        <mark key="^" line="39" column="45" />
+      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/enclave/CMakeLists.txt" timestamp="1510861751616">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="45" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="20" column="45" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkle_data.cpp" timestamp="1506092911315">
         <mark key="[" line="23" column="59" />
@@ -242,6 +255,12 @@
         <mark key="." line="101" column="6" />
         <mark key="^" line="101" column="6" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/e_server.c" timestamp="1510861322099">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/encoding.cpp" timestamp="1506548930960">
         <mark key="[" line="137" column="53" />
         <mark key="]" line="137" column="43" />
@@ -264,6 +283,13 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="22" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/e_server.cpp" timestamp="1510862681402">
+        <mark key="'" line="104" column="43" />
+        <mark key="[" line="84" column="38" />
+        <mark key="]" line="85" column="12" />
+        <mark key="." line="85" column="12" />
+        <mark key="^" line="85" column="12" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/eth_abi.h" timestamp="1506528055499">
         <mark key="[" line="118" column="19" />
@@ -347,13 +373,6 @@
         <mark key="[" line="330" column="34" />
         <mark key="]" line="330" column="34" />
         <mark key="." line="330" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.cpp" timestamp="1510761573894">
-        <mark key="'" line="93" column="22" />
-        <mark key="[" line="139" column="26" />
-        <mark key="]" line="239" column="34" />
-        <mark key="^" line="239" column="34" />
-        <mark key="." line="239" column="34" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/test/ups_test.cpp" timestamp="1506622174861">
         <mark key="[" line="65" column="0" />
@@ -447,11 +466,11 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/CMakeLists.txt" timestamp="1510779281013">
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="15" />
-        <mark key="." line="42" column="15" />
-        <mark key="^" line="42" column="15" />
+      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/CMakeLists.txt" timestamp="1510862138465">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="43" column="27" />
+        <mark key="." line="43" column="27" />
+        <mark key="^" line="43" column="27" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/scrapers/yahoo_yql_stock.h" timestamp="1506455103308">
         <mark key="[" line="101" column="58" />
@@ -541,7 +560,7 @@
         <mark key="^" line="207" column="35" />
         <mark key="." line="207" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510777776979">
+      <file name="/Dummy.txt" timestamp="1510861914093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/common.h" timestamp="1506627855544">
@@ -598,6 +617,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/enclave/Enclave_t.h" timestamp="1510861798183" />
+      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/enclave/Enclave.edl" timestamp="1510861668884">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" timestamp="1510688649025">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="32" />
@@ -611,6 +637,10 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="28" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/m_server.cpp" timestamp="1510862029208">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="113" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/interrupt.h" timestamp="1506022800938">
         <mark key="[" line="16" column="9" />
         <mark key="]" line="16" column="23" />
@@ -619,12 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="352" column="2" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkpath/merkpath.cpp" />
-      <jump line="63" column="33" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/exch-merkleproof.cpp" />
-      <jump line="11" column="10" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/exch-merkleproof.cpp" />
-      <jump line="40" column="34" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave_test.cpp" />
-      <jump line="123" column="24" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/exch.cpp" />
-      <jump line="59" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/exch-merkleproof.cpp" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/interrupt.cpp" />
       <jump line="105" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/exch.cpp" />
       <jump line="64" column="27" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/tls_server_threaded.cpp" />
@@ -719,67 +743,71 @@
       <jump line="93" column="22" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/blazingTLS-SGX/CMakeLists.txt" />
       <jump line="13" column="24" filename="$USER_HOME$/dev/mbedtls-SGX/example/untrusted/CMakeLists.txt" />
+      <jump line="71" column="1" filename="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/e_server.cpp" />
+      <jump line="31" column="0" filename="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/e_server.cpp" />
+      <jump line="86" column="0" filename="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/e_server.cpp" />
+      <jump line="93" column="19" filename="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/e_server.cpp" />
+      <jump line="96" column="43" filename="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/e_server.cpp" />
+      <jump line="50" column="6" filename="$USER_HOME$/CLionProjects/blazingTLS-SGX/enclave/Log.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">PDwg</text>
       </register>
       <register name="/" type="4">
-        <text>block</text>
+        <text encoding="base64">XDxhY2NlcHRfY29ubl9jYlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YWRkX2RlcGVuZGVuY2llcyhtX3NlcnZlciBlbmNsYXZlKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHtMSUJfTUJFRFRMU19QQVRIfSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtTCR7U0dYX0xJQlJBUllfUEFUSH0gLWwke1NHWF9VUlRTX0xJQn0gLWwke1NHWF9VU1ZDX0xJQn0KICAgICAgICAke0xJQl9NQkVEVExTX1BBVEh9IC1scHRocmVhZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtV2wsLXJwYXRoIC1XbCwvdXNyL2xvY2FsL2xpYgogICAgICAgIC1XbCwtcnBhdGggLVdsLCR7U0dYX0xJQlJBUllfUEFUSH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtV2wsLXJwYXRoIC1XbCwvdXNyL2xvY2FsL2xpYgogICAgICAgIC1XbCwtcnBhdGggLVdsLCR7U0dYX0xJQlJBUllfUEFUSH0K</text>
+        <text encoding="base64">CiAgbG9uZyBpbnQgdGhyZWFkX2lkID0gcHRocmVhZF9zZWxmKCk7CiAgdGhyZWFkX2luZm9fdCAqdGhyZWFkX2luZm8gPSAodGhyZWFkX2luZm9fdCAqKSBkYXRhOwogIHNzbF9jb25uX2hhbmRsZShlaWQsIHRocmVhZF9pZCwgdGhyZWFkX2luZm8pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtV2wsLXJwYXRoIC1XbCwvdXNyL2xvY2FsL2xpYgogICAgICAgIC1XbCwtcnBhdGggLVdsLCR7U0dYX0xJQlJBUllfUEFUSH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkX2RlcGVuZGVuY2llcyhzX2NsaWVudCBlbmNsYXZlKQphZGRfZGVwZW5kZW5jaWVzKHNfc2VydmVyIGVuY2xhdmUpCg==</text>
+        <text encoding="base64">ICBzc2xfY29ubl9oYW5kbGUoZWlkLCB0aHJlYWRfaWQsIHRocmVhZF9pbmZvKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHNfY2xpZW50CiAgICAgICAgLUwke1NHWF9MSUJSQVJZX1BBVEh9IC1sJHtTR1hfVVJUU19MSUJ9IC1sJHtTR1hfVVNWQ19MSUJ9CiAgICAgICAgJHtMSUJfTUJFRFRMU19QQVRIfQogICAgICAgIC1XbCwtcnBhdGggLVdsLC91c3IvbG9jYWwvbGliCiAgICAgICAgLVdsLC1ycGF0aCAtV2wsJHtTR1hfTElCUkFSWV9QQVRIfQogICAgICAgIC1scHRocmVhZCkKCnRhcmdldF9saW5rX2xpYnJhcmllcyhzX3NlcnZlcgogICAgICAgIC1MJHtTR1hfTElCUkFSWV9QQVRIfSAtbCR7U0dYX1VSVFNfTElCfSAtbCR7U0dYX1VTVkNfTElCfQogICAgICAgICR7TElCX01CRURUTFNfUEFUSH0KICAgICAgICAtV2wsLXJwYXRoIC1XbCwvdXNyL2xvY2FsL2xpYgogICAgICAgIC1XbCwtcnBhdGggLVdsLCR7U0dYX0xJQlJBUllfUEFUSH0KICAgICAgICAtbHB0aHJlYWQpCgo=</text>
+        <text encoding="base64">ICAgIGZyb20gIm1iZWR0bHNfc2d4LmVkbCIgaW1wb3J0ICo7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtV2wsLXJwYXRoIC1XbCwvdXNyL2xvY2FsL2xpYgogICAgICAgIC1XbCwtcnBhdGggLVdsLCR7U0dYX0xJQlJBUllfUEFUSH0K</text>
+        <text encoding="base64">ICAgICAgICAvKiBkZWZpbmUgRUNBTExzIGhlcmUuICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtV2wsLXJwYXRoIC1XbCwvdXNyL2xvY2FsL2xpYgogICAgICAgIC1XbCwtcnBhdGggLVdsLCR7U0dYX0xJQlJBUllfUEFUSH0K</text>
+        <text encoding="base64">ICAgICAgICAvKiBkZWZpbmUgRUNBTExzIGhlcmUuICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtV2wsLXJwYXRoIC1XbCwvdXNyL2xvY2FsL2xpYgogICAgICAgIC1XbCwtcnBhdGggLVdsLCR7U0dYX0xJQlJBUllfUEFUSH0K</text>
+        <text encoding="base64">ICB0aHJlYWRfaW5mb190ICp0aHJlYWRfaW5mbyA9ICh0aHJlYWRfaW5mb190ICopIGRhdGE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
       </register>
     </registers>
     <search>
-      <last-search>block</last-search>
+      <last-search encoding="base64">XDxhY2NlcHRfY29ubl9jYlw+</last-search>
       <last-offset />
-      <last-pattern>block</last-pattern>
+      <last-pattern encoding="base64">XDxhY2NlcHRfY29ubl9jYlw+</last-pattern>
       <last-replace>auto</last-replace>
       <last-substitute>string</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>feeding</entry>
-        <entry>b64_</entry>
         <entry>testmain</entry>
         <entry>Main</entry>
         <entry>ALL_SIGNAL</entry>
@@ -798,6 +826,8 @@
         <entry>string</entry>
         <entry>62</entry>
         <entry>block</entry>
+        <entry>accept</entry>
+        <entry encoding="base64">XDxhY2NlcHRfY29ubl9jYlw+</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
