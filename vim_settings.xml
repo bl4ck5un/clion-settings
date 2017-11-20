@@ -35,7 +35,6 @@
         <mark key="." line="316" column="43" />
         <mark key="^" line="316" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state.h" timestamp="1510761646951" />
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/merkle.h" timestamp="1505943690649">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="0" column="0" />
@@ -530,12 +529,7 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/tls_server_threaded_u.cpp" timestamp="1510762148332">
-        <mark key="[" line="104" column="50" />
-        <mark key="]" line="104" column="51" />
-        <mark key="." line="104" column="51" />
-        <mark key="^" line="104" column="51" />
-      </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/tls_server_threaded_u.cpp" timestamp="1510762148332" />
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_ecall_interface.cpp" timestamp="1506028481226">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
