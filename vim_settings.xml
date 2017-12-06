@@ -113,12 +113,12 @@
         <mark key="^" line="48" column="40" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/state_ssl.cpp" timestamp="1512593561907">
+      <file name="$USER_HOME$/dev/poker/src/Enclave/state_ssl.cpp" timestamp="1512593886074">
         <mark key="'" line="8" column="31" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="19" column="11" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
         <mark key="^" line="1" column="14" />
-        <mark key="." line="3" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/App/status.json" timestamp="1506975842140">
         <mark key="[" line="3" column="23" />
@@ -314,12 +314,12 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/state.h" timestamp="1512593588995">
+      <file name="$USER_HOME$/dev/poker/src/Enclave/state.h" timestamp="1512594002991">
         <mark key="'" line="6" column="1" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="26" column="1" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/balance.cpp" timestamp="1506026395620">
         <mark key="[" line="32" column="0" />
@@ -415,9 +415,9 @@
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/CMakeLists.txt" timestamp="1512592813013">
         <mark key="[" line="24" column="22" />
-        <mark key="]" line="59" column="65" />
-        <mark key="." line="59" column="65" />
-        <mark key="^" line="59" column="49" />
+        <mark key="]" line="57" column="65" />
+        <mark key="." line="57" column="65" />
+        <mark key="^" line="57" column="49" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/rpc.h" timestamp="1506094456016">
         <mark key="[" line="33" column="0" />
@@ -655,6 +655,13 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" timestamp="1512594369012">
+        <mark key="'" line="298" column="4" />
+        <mark key="[" line="382" column="18" />
+        <mark key="]" line="382" column="23" />
+        <mark key="." line="382" column="23" />
+        <mark key="^" line="382" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/balance_book.hpp" timestamp="1506027945192">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="6" column="0" />
@@ -700,6 +707,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/poker/src/Enclave/ssl_client.h" timestamp="1512594034465">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/App/key_utils.cpp" timestamp="1506525430767">
         <mark key="[" line="107" column="2" />
@@ -775,7 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/dev/Town-Crier/src/Enclave/scrapers/utils.h" />
       <jump line="74" column="19" filename="$USER_HOME$/dev/Town-Crier/src/Enclave/event_handler.cpp" />
       <jump line="81" column="0" filename="$USER_HOME$/dev/Town-Crier/src/Enclave/commons.h" />
       <jump line="132" column="0" filename="$USER_HOME$/dev/Town-Crier/src/Enclave/eth_transaction.cpp" />
@@ -875,16 +886,17 @@
       <jump line="60" column="31" filename="$USER_HOME$/dev/poker/src/Enclave/state_ssl.cpp" />
       <jump line="35" column="6" filename="$USER_HOME$/dev/poker/src/Enclave/state.h" />
       <jump line="5" column="1" filename="$USER_HOME$/dev/poker/src/Enclave/state.h" />
+      <jump line="298" column="4" filename="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>::</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmNsdWRlXD4=</text>
@@ -893,31 +905,31 @@
         <text encoding="base64">ICB0cnkgewogICAgc3RhdGU6OnRsc0NsaWVudCA9IG5ldyBUTFNDbGllbnQoaG9zdG5hbWUsIHBvcnQpOwogICAgc3RhdGU6OnRsc0NsaWVudC0+Q29ubmVjdCgpOwoKICAgIHJldHVybiAwOwogIH0KICBjYXRjaCAoY29uc3Qgc3RkOjpleGNlcHRpb24gJmUpIHsKICAgIExMX0NSSVRJQ0FMKCJ0bHMgY2xpZW50IGVycm9yOiAlcyIsIGUud2hhdCgpKTsKICB9CiAgY2F0Y2ggKC4uLikgewogICAgTExfQ1JJVElDQUwoInNvbWV0aGluZyBzdHVwaWQiKTsKICB9CgogIHJldHVybiAtMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAtMTsK</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGU6OnRsc0NsaWVudC0+Q29ubmVjdCgpOwo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGxzQ2xpZW50ID0gbmV3IFRMU0NsaWVudChob3N0bmFtZSwgcG9ydCk7Cg==</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRsc0NsaWVudCA9IG5ldyBUTFNDbGllbnQoImxvY2FsaG9zdCIsIDk5OTkpOwo=</text>
+        <text encoding="base64">ICAvLyBGSVhNRTogdXNpbmcgdGhlIHdyb25nIGtleSBmb3Igbm93Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cm5hbWVzcGFjZSBleGNoIHsKbmFtZXNwYWNlIGVuY2xhdmUgewpuYW1lc3BhY2Ugc3RhdGUgewpleHRlcm4gVExTQ2xpZW50ICp0bHNDbGllbnQ7Cn0KfQp9Cg==</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKgogICAqIDEuYSBsb2FkIHVzZXIgaWRlbnRpdHkKICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
