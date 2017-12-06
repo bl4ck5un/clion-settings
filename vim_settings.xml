@@ -107,6 +107,7 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="59" column="60" />
       </file>
+      <file name="$USER_HOME$/dev/poker/src/mbedtls_SGX-2.6.0/include/mbedtls/ssl.h" timestamp="1512599997575" />
       <file name="$USER_HOME$/dev/mbedtls-SGX/example/enclave/CMakeLists.txt" timestamp="1510778540655">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -352,12 +353,12 @@
         <mark key="^" line="33" column="26" />
         <mark key="." line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/deck.h" timestamp="1512597479696">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="84" column="30" />
-        <mark key="]" line="84" column="52" />
-        <mark key="." line="84" column="52" />
-        <mark key="^" line="84" column="52" />
+      <file name="$USER_HOME$/dev/poker/src/Enclave/deck.h" timestamp="1512598349495">
+        <mark key="'" line="11" column="1" />
+        <mark key="[" line="47" column="32" />
+        <mark key="]" line="47" column="35" />
+        <mark key="." line="47" column="35" />
+        <mark key="^" line="47" column="35" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.h" timestamp="1511284065941">
         <mark key="[" line="54" column="21" />
@@ -631,6 +632,7 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/poker/src/Enclave/utils.cpp" timestamp="1512598816420" />
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/log.c" timestamp="1510692860257">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="0" />
@@ -662,12 +664,12 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" timestamp="1512594369012">
-        <mark key="'" line="298" column="4" />
-        <mark key="[" line="382" column="18" />
-        <mark key="]" line="382" column="23" />
-        <mark key="." line="382" column="23" />
-        <mark key="^" line="382" column="23" />
+      <file name="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" timestamp="1512600043258">
+        <mark key="'" line="392" column="10" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="219" column="41" />
+        <mark key="." line="219" column="41" />
+        <mark key="^" line="219" column="41" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/balance_book.hpp" timestamp="1506027945192">
         <mark key="[" line="5" column="30" />
@@ -773,12 +775,11 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" timestamp="1512597663809">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="25" column="10" />
+      <file name="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" timestamp="1512599282732">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/table.h" timestamp="1512594531579">
         <mark key="[" line="7" column="6" />
@@ -800,13 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2783" column="21" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
-      <jump line="2785" column="8" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
-      <jump line="2787" column="41" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
-      <jump line="2712" column="25" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
-      <jump line="2713" column="38" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
-      <jump line="2714" column="21" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
-      <jump line="2715" column="8" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
       <jump line="2716" column="34" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
       <jump line="2791" column="4" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
       <jump line="2720" column="4" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
@@ -897,72 +891,75 @@
       <jump line="14" column="16" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
       <jump line="67" column="2" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
       <jump line="9" column="1" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
-      <jump line="10" column="16" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" />
+      <jump line="49" column="13" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
+      <jump line="10" column="15" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
+      <jump line="31" column="4" filename="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" />
+      <jump line="159" column="16" filename="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" />
+      <jump line="37" column="7" filename="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" />
+      <jump line="4" column="1" filename="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" />
+      <jump line="5" column="14" filename="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" />
+      <jump line="392" column="10" filename="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgLy8gc2V0dXAgdGxzIGNvbnRleHQKICBMTF9ERUJVRygiU2V0dGluZyB1cCB0aGUgU1NML1RMUyBzdHJ1Y3R1cmUuLi4iKTsKCiAgaWYgKChyZXQgPSBtYmVkdGxzX3NzbF9jb25maWdfZGVmYXVsdHMoJmNvbmYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTUJFRFRMU19TU0xfSVNfQ0xJRU5ULAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1CRURUTFNfU1NMX1RSQU5TUE9SVF9TVFJFQU0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTUJFRFRMU19TU0xfUFJFU0VUX0RFRkFVTFQpKSAhPSAwKSB7CiAgICB0aHJvdyBydW50aW1lX2Vycm9yKCJtYmVkdGxzX3NzbF9jb25maWdfZGVmYXVsdHMiKTsKICB9CgogIG1iZWR0bHNfc3NsX2NvbmZfYXV0aG1vZGUoJmNvbmYsIE1CRURUTFNfU1NMX1ZFUklGWV9PUFRJT05BTCk7CiAgbWJlZHRsc19zc2xfY29uZl92ZXJpZnkoJmNvbmYsIG15X3ZlcmlmeSwgTlVMTCk7CgojaWYgZGVmaW5lZChNQkVEVExTX1NTTF9NQVhfRlJBR01FTlRfTEVOR1RIKQogIGlmICgocmV0ID0gbWJlZHRsc19zc2xfY29uZl9tYXhfZnJhZ19sZW4oJmNvbmYsIE1CRURUTFNfU1NMX01BWF9GUkFHX0xFTl9OT05FKSkgIT0gMCkgewogICAgdGhyb3cgcnVudGltZV9lcnJvcigibWJlZHRsc19zc2xfY29uZl9tYXhfZnJhZ19sZW4iKTsKICB9CiNlbmRpZgoKICBtYmVkdGxzX3NzbF9jb25mX3JuZygmY29uZiwgbWJlZHRsc19jdHJfZHJiZ19yYW5kb20sICZjdHJfZHJiZyk7CiAgbWJlZHRsc19zc2xfY29uZl9kYmcoJmNvbmYsIG15X2RlYnVnLCBOVUxMKTsKICBtYmVkdGxzX3NzbF9jb25mX3JlYWRfdGltZW91dCgmY29uZiwgMCk7CiAgbWJlZHRsc19zc2xfY29uZl9jYV9jaGFpbigmY29uZiwgJmNhY2VydCwgTlVMTCk7CgojaWYgZGVmaW5lZChNQkVEVExTX1NTTF9TRVNTSU9OX1RJQ0tFVFMpCiAgbWJlZHRsc19zc2xfY29uZl9zZXNzaW9uX3RpY2tldHMoJmNvbmYsIE1CRURUTFNfU1NMX1NFU1NJT05fVElDS0VUU19FTkFCTEVEKTsKI2VuZGlmCgojaWYgZGVmaW5lZChNQkVEVExTX1NTTF9SRU5FR09USUFUSU9OKQogIG1iZWR0bHNfc3NsX2NvbmZfcmVuZWdvdGlhdGlvbigmY29uZiwgTUJFRFRMU19TU0xfUkVORUdPVElBVElPTl9ESVNBQkxFRCk7CiNlbmRpZgo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>NONE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmNsdWRlXD4=</text>
+        <text>throwing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgc3RhdGU6OnRsc0NsaWVudCA9IG5ldyBUTFNDbGllbnQoaG9zdG5hbWUsIHBvcnQpOwogICAgc3RhdGU6OnRsc0NsaWVudC0+Q29ubmVjdCgpOwoKICAgIHJldHVybiAwOwogIH0KICBjYXRjaCAoY29uc3Qgc3RkOjpleGNlcHRpb24gJmUpIHsKICAgIExMX0NSSVRJQ0FMKCJ0bHMgY2xpZW50IGVycm9yOiAlcyIsIGUud2hhdCgpKTsKICB9CiAgY2F0Y2ggKC4uLikgewogICAgTExfQ1JJVElDQUwoInNvbWV0aGluZyBzdHVwaWQiKTsKICB9CgogIHJldHVybiAtMTsK</text>
+        <text encoding="base64">ICBMTF9DUklUSUNBTCgiaGVyZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgLy8gc2V0dXAgdGxzIGNvbnRleHQKICBMTF9ERUJVRygiU2V0dGluZyB1cCB0aGUgU1NML1RMUyBzdHJ1Y3R1cmUuLi4iKTsKCiAgaWYgKChyZXQgPSBtYmVkdGxzX3NzbF9jb25maWdfZGVmYXVsdHMoJmNvbmYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTUJFRFRMU19TU0xfSVNfQ0xJRU5ULAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1CRURUTFNfU1NMX1RSQU5TUE9SVF9TVFJFQU0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTUJFRFRMU19TU0xfUFJFU0VUX0RFRkFVTFQpKSAhPSAwKSB7CiAgICB0aHJvdyBydW50aW1lX2Vycm9yKCJtYmVkdGxzX3NzbF9jb25maWdfZGVmYXVsdHMiKTsKICB9CgogIG1iZWR0bHNfc3NsX2NvbmZfYXV0aG1vZGUoJmNvbmYsIE1CRURUTFNfU1NMX1ZFUklGWV9PUFRJT05BTCk7CiAgbWJlZHRsc19zc2xfY29uZl92ZXJpZnkoJmNvbmYsIG15X3ZlcmlmeSwgTlVMTCk7CgojaWYgZGVmaW5lZChNQkVEVExTX1NTTF9NQVhfRlJBR01FTlRfTEVOR1RIKQogIGlmICgocmV0ID0gbWJlZHRsc19zc2xfY29uZl9tYXhfZnJhZ19sZW4oJmNvbmYsIE1CRURUTFNfU1NMX01BWF9GUkFHX0xFTl9OT05FKSkgIT0gMCkgewogICAgdGhyb3cgcnVudGltZV9lcnJvcigibWJlZHRsc19zc2xfY29uZl9tYXhfZnJhZ19sZW4iKTsKICB9CiNlbmRpZgoKICBtYmVkdGxzX3NzbF9jb25mX3JuZygmY29uZiwgbWJlZHRsc19jdHJfZHJiZ19yYW5kb20sICZjdHJfZHJiZyk7CiAgbWJlZHRsc19zc2xfY29uZl9kYmcoJmNvbmYsIG15X2RlYnVnLCBOVUxMKTsKICBtYmVkdGxzX3NzbF9jb25mX3JlYWRfdGltZW91dCgmY29uZiwgMCk7CiAgbWJlZHRsc19zc2xfY29uZl9jYV9jaGFpbigmY29uZiwgJmNhY2VydCwgTlVMTCk7CgojaWYgZGVmaW5lZChNQkVEVExTX1NTTF9TRVNTSU9OX1RJQ0tFVFMpCiAgbWJlZHRsc19zc2xfY29uZl9zZXNzaW9uX3RpY2tldHMoJmNvbmYsIE1CRURUTFNfU1NMX1NFU1NJT05fVElDS0VUU19FTkFCTEVEKTsKI2VuZGlmCgojaWYgZGVmaW5lZChNQkVEVExTX1NTTF9SRU5FR09USUFUSU9OKQogIG1iZWR0bHNfc3NsX2NvbmZfcmVuZWdvdGlhdGlvbigmY29uZiwgTUJFRFRMU19TU0xfUkVORUdPVElBVElPTl9ESVNBQkxFRCk7CiNlbmRpZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkLgo=</text>
+        <text encoding="base64">ICBtYmVkdGxzX3NzbF9jb25mX2F1dGhtb2RlKCZjb25mLCBNQkVEVExTX1NTTF9WRVJJRllfT1BUSU9OQUwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2ZWN0b3I8aW50PiBhIHsxLCAyLCAzLCA0fTsKCiAgcHJpbnRmX3N0ZCgiYmVmb3JlIHNodWZmbGU6ICIpOwogIGZvciAoYXV0byBuIDogYSkgewogICAgcHJpbnRmX3N0ZCgiJWQgIiwgbik7CiAgfQogIHByaW50Zl9zdGQoIlxuIik7CgogIFNodWZmbGVWZWN0b3IoYSk7CgogIHByaW50Zl9zdGQoImFmdGVyIHNodWZmbGU6ICIpOwogIGZvciAoYXV0byBuIDogYSkgewogICAgcHJpbnRmX3N0ZCgiJWQgIiwgbik7CiAgfQogIHByaW50Zl9zdGQoIlxuIik7CgogIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICBjYXRjaCAoLi4uKSB7CiAgICBMTF9DUklUSUNBTCgidW5rbm93biBlcnJvciIpOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExMX0NSSVRJQ0FMKCJoYWhhIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RhdGljIHByaW50VmVjdG9yCg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgcnVudGltZV9lcnJvcigiY2Fubm90IHZlcmlmeSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTExfQ1JJVElDQUwoInRocm93aW5nIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgTExfQ1JJVElDQUwoInRocm93biIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFycmF5Pgo=</text>
+        <text encoding="base64">ICBMTF9DUklUSUNBTCgiaGVyZSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">a2trawo=</text>
+        <text encoding="base64">ICBMTF9DUklUSUNBTCgiaGVyZSIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>384</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmNsdWRlXD4=</last-search>
+      <last-search>throwing</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmNsdWRlXD4=</last-pattern>
+      <last-pattern>throwing</last-pattern>
       <last-replace>auto</last-replace>
       <last-substitute>string</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnN0YWxsX3NpZ25hbF9oYW5kbGVyc1w+</entry>
-        <entry>sig_action</entry>
-        <entry>unsafe</entry>
-        <entry>LOGURU_UNSAFE_SIGNAL_HANDLER</entry>
         <entry>install</entry>
         <entry>installing</entry>
         <entry>cerr</entry>
@@ -978,7 +975,11 @@
         <entry encoding="base64">XDxhY2NlcHRfY29ubl9jYlw+</entry>
         <entry>static</entry>
         <entry>wall</entry>
+        <entry>verify_mode</entry>
+        <entry>mode</entry>
+        <entry>own</entry>
         <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
+        <entry>throwing</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
@@ -989,6 +990,9 @@
         <entry>66</entry>
         <entry>146</entry>
         <entry>w</entry>
+        <entry>19</entry>
+        <entry>38</entry>
+        <entry>384</entry>
       </history-cmd>
       <history-expr />
       <history-input />
