@@ -107,7 +107,6 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="59" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/mbedtls_SGX-2.6.0/include/mbedtls/ssl.h" timestamp="1512599997575" />
       <file name="$USER_HOME$/dev/mbedtls-SGX/example/enclave/CMakeLists.txt" timestamp="1510778540655">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -206,6 +205,11 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/poker/src/untrusted/command_server.cpp" timestamp="1512677001144">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/bitcoind_api.json" timestamp="1506094931158">
         <mark key="[" line="25" column="3" />
@@ -475,6 +479,13 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/poker/src/untrusted/command_server.cc" timestamp="1512677307007">
+        <mark key="'" line="10" column="18" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="41" column="16" />
+        <mark key="." line="41" column="16" />
+        <mark key="^" line="41" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/rsa_utils.cpp" timestamp="1511285321975">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="111" column="2" />
@@ -517,11 +528,11 @@
         <mark key="^" line="1" column="51" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/untrusted/poker.cpp" timestamp="1512408001857">
-        <mark key="[" line="75" column="1" />
-        <mark key="]" line="75" column="34" />
-        <mark key="." line="75" column="34" />
-        <mark key="^" line="75" column="34" />
+      <file name="$USER_HOME$/dev/poker/src/untrusted/poker.cpp" timestamp="1512677842529">
+        <mark key="[" line="57" column="2" />
+        <mark key="]" line="57" column="4" />
+        <mark key="." line="57" column="4" />
+        <mark key="^" line="57" column="4" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/mbedtls_net.c" timestamp="1506089249771">
         <mark key="'" line="418" column="4" />
@@ -632,11 +643,16 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/utils.cpp" timestamp="1512598816420" />
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/log.c" timestamp="1510692860257">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/poker/src/untrusted/command_server.h" timestamp="1512676993917">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/CMakeLists.txt" timestamp="1511285827263">
         <mark key="[" line="7" column="8" />
@@ -648,9 +664,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="29" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/tls_server_threaded_u.cpp" timestamp="1511286134440">
-        <mark key="[" line="149" column="30" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_ecall_interface.cpp" timestamp="1506028481226">
         <mark key="[" line="6" column="0" />
@@ -683,9 +696,6 @@
         <mark key="]" line="305" column="22" />
         <mark key="^" line="112" column="25" />
         <mark key="." line="305" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512592088834">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/common.h" timestamp="1506627855544">
         <mark key="[" line="0" column="0" />
@@ -728,11 +738,11 @@
         <mark key="." line="107" column="6" />
         <mark key="^" line="107" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/untrusted/CMakeLists.txt" timestamp="1512592347865">
-        <mark key="[" line="3" column="64" />
-        <mark key="]" line="3" column="65" />
-        <mark key="^" line="3" column="49" />
-        <mark key="." line="3" column="65" />
+      <file name="$USER_HOME$/dev/poker/src/untrusted/CMakeLists.txt" timestamp="1512677706297">
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="55" column="69" />
+        <mark key="^" line="55" column="69" />
+        <mark key="." line="55" column="69" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave_test.cpp" timestamp="1506025660758">
         <mark key="'" line="41" column="34" />
@@ -801,9 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="30" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
-      <jump line="2738" column="26" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
-      <jump line="2758" column="21" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
       <jump line="127" column="20" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
       <jump line="2780" column="9" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
       <jump line="1756" column="0" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
@@ -901,6 +908,9 @@
       <jump line="60" column="0" filename="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" />
       <jump line="54" column="11" filename="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" />
       <jump line="229" column="8" filename="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/poker/src/untrusted/command_server.h" />
+      <jump line="37" column="24" filename="$USER_HOME$/dev/poker/src/untrusted/command_server.cc" />
+      <jump line="10" column="18" filename="$USER_HOME$/dev/poker/src/untrusted/command_server.cc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -916,34 +926,34 @@
         <text>my_verify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBtYmVkdGxzX3NzbF9jb25mX2F1dGhtb2RlKCZjb25mLCBNQkVEVExTX1NTTF9WRVJJRllfT1BUSU9OQUwpOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZz4KCiNpbmNsdWRlICJjb20uZ3JwYy5wYi5oIgoKdXNpbmcgbmFtZXNwYWNlIHN0ZDsKdXNpbmcgbmFtZXNwYWNlIHZpcnR1ZTo6cG9rZXI7CnVzaW5nIDo6Z3JwYzo6U3RhdHVzOwp1c2luZyA6OmdycGM6OlNlcnZlckNvbnRleHQ7CgpjbGFzcyBDb21tYWRuQ2VudGVySW1wbCBmaW5hbCA6IHB1YmxpYyBDb21tYW5kQ2VudGVyOjpTZXJ2aWNlIHsKICBTdGF0dXMgcmVnaXN0ZXJVc2VyKFNlcnZlckNvbnRleHQqIGNvbnRleHQsIGNvbnN0IFVzZXIqIHJlcXVlc3QsIFJldHVybiogcmVzcG9uc2UpIG92ZXJyaWRlIHsKICAgIHN0cmluZyB1c2VybmFtZSA9IHJlcXVlc3QtPmlkKCkuaWQoKTsKICAgIHN0cmluZyBjZXJ0ID0gcmVxdWVzdC0+Y2VydGlmaWNhdGUoKTsKCiAgICByZXR1cm4gU3RhdHVzOjpPSzsKICB9CgogIFN0YXR1cyBkZWFsUHVibGljQ2FyZChTZXJ2ZXJDb250ZXh0KiBjb250ZXh0LCBjb25zdCBFbXB0eSogcmVxdWVzdCwgUmV0dXJuKiByZXNwb25zZSkgewogICAgcmV0dXJuIFN0YXR1czo6T0s7CiAgfQogIFN0YXR1cyBkZWFsUHJpdmF0ZUNhcmQoU2VydmVyQ29udGV4dCogY29udGV4dCwgY29uc3QgVXNlcl9Vc2VySUQqIHJlcXVlc3QsIFJldHVybiogcmVzcG9uc2UpewogICAgcmV0dXJuIFN0YXR1czo6T0s7CiAgfQp9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAoKHZvaWQpIGRhdGEpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBMTF9DUklUSUNBTCgiY2FsbGJhY2sgY2FsbGVkIik7CiAgKmZsYWdzID0gMDsKICByZXR1cm4gMDsKCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTExfREVCVUcoIlZlcmlmeWluZyBwZWVyIGNlcnRpZmljYXRlLi4uIik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBMTF9ERUJVRygiVmVyaWZpY2F0aW9uIHJlcXVlc3RlZCBmb3IgKGRlcHRoICVkKToiLCBkZXB0aCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBTZXJ2ZXJCdWlsZGVyCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBmYW56IG9uIDEyLzcvMTcuCi8vCgojaW5jbHVkZSAiY29tbWFuZF9zZXJ2ZXIuaCIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlcXVlc3QtPmNlcnRpZmljYXRlKCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBtYmVkdGxzX3NzbF9jb25mX2F1dGhtb2RlKCZjb25mLCApOwo=</text>
+        <text encoding="base64">dXNpbmcgdmlydHVlOjpwb2tlcjo6Q29tbWFuZENlbnRlcjsKdXNpbmcgdmlydHVlOjpwb2tlcjo6VXNlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dXNpbmcgdmlydHVlOjpwb2tlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
