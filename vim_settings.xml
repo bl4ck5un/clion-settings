@@ -19,6 +19,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/poker/src/Enclave/dealer.cpp" timestamp="1512756896930">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/eth_transaction.cpp" timestamp="1506974847675">
         <mark key="'" line="234" column="19" />
         <mark key="[" line="254" column="0" />
@@ -63,6 +69,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="11" column="27" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/poker/src/Enclave/log.h" timestamp="1512756955619">
+        <mark key="'" line="73" column="4" />
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="4" />
+        <mark key="^" line="36" column="4" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/hybrid_cipher.cpp" timestamp="1506522198186">
         <mark key="[" line="415" column="0" />
@@ -319,12 +332,11 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/state.h" timestamp="1512754299940">
-        <mark key="'" line="54" column="16" />
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+      <file name="$USER_HOME$/dev/poker/src/Enclave/state.h" timestamp="1512755592647">
+        <mark key="'" line="53" column="16" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/balance.cpp" timestamp="1506026395620">
         <mark key="[" line="32" column="0" />
@@ -482,12 +494,12 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/untrusted/command_server.cc" timestamp="1512680533287">
+      <file name="$USER_HOME$/dev/poker/src/untrusted/command_server.cc" timestamp="1512756793742">
         <mark key="'" line="11" column="18" />
-        <mark key="[" line="18" column="49" />
-        <mark key="]" line="18" column="67" />
-        <mark key="." line="18" column="67" />
-        <mark key="^" line="18" column="67" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="46" column="3" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/rsa_utils.cpp" timestamp="1511285321975">
         <mark key="'" line="10" column="0" />
@@ -532,11 +544,11 @@
         <mark key="^" line="1" column="51" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/untrusted/poker.cpp" timestamp="1512746786433">
-        <mark key="[" line="57" column="2" />
-        <mark key="]" line="57" column="4" />
-        <mark key="." line="45" column="49" />
-        <mark key="^" line="57" column="4" />
+      <file name="$USER_HOME$/dev/poker/src/untrusted/poker.cpp" timestamp="1512756513217">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="73" column="1" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/mbedtls_net.c" timestamp="1506089249771">
         <mark key="'" line="418" column="4" />
@@ -607,11 +619,10 @@
         <mark key="." line="43" column="27" />
         <mark key="^" line="43" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/dealer.hpp" timestamp="1512753964009">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="6" />
+      <file name="$USER_HOME$/dev/poker/src/Enclave/dealer.hpp" timestamp="1512755531877">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/scrapers/yahoo_yql_stock.h" timestamp="1506455103308">
         <mark key="[" line="101" column="58" />
@@ -695,12 +706,12 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" timestamp="1512667144484">
+      <file name="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" timestamp="1512756051899">
         <mark key="'" line="228" column="8" />
-        <mark key="[" line="55" column="13" />
-        <mark key="]" line="55" column="13" />
-        <mark key="." line="55" column="13" />
-        <mark key="^" line="56" column="14" />
+        <mark key="[" line="273" column="2" />
+        <mark key="]" line="273" column="1" />
+        <mark key="." line="273" column="1" />
+        <mark key="^" line="273" column="1" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/balance_book.hpp" timestamp="1506027945192">
         <mark key="[" line="5" column="30" />
@@ -745,10 +756,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/ssl_client.h" timestamp="1512594034465">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/poker/src/Enclave/ssl_client.h" timestamp="1512756005352">
+        <mark key="[" line="65" column="38" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="66" column="25" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/App/key_utils.cpp" timestamp="1506525430767">
         <mark key="[" line="107" column="2" />
@@ -803,12 +815,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" timestamp="1512754021609">
+      <file name="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" timestamp="1512756470967">
         <mark key="'" line="5" column="14" />
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="9" />
-        <mark key="^" line="19" column="9" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="6" />
+        <mark key="." line="35" column="6" />
+        <mark key="^" line="35" column="6" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/table.h" timestamp="1512594531579">
         <mark key="[" line="7" column="6" />
@@ -830,8 +842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1756" column="0" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
-      <jump line="2721" column="0" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
       <jump line="2775" column="0" filename="$USER_HOME$/dev/Town-Crier/src/Common/loguru.hpp" />
       <jump line="110" column="27" filename="$USER_HOME$/dev/Town-Crier/src/Enclave/test/transaction_test.cpp" />
       <jump line="244" column="20" filename="$USER_HOME$/dev/Town-Crier/src/Enclave/eth_transaction.cpp" />
@@ -930,49 +940,51 @@
       <jump line="10" column="18" filename="$USER_HOME$/dev/poker/src/untrusted/command_server.cc" />
       <jump line="52" column="16" filename="$USER_HOME$/dev/poker/src/Enclave/state.h" />
       <jump line="25" column="1" filename="$USER_HOME$/dev/poker/src/Enclave/user.hpp" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/poker/src/Enclave/log.h" />
+      <jump line="73" column="4" filename="$USER_HOME$/dev/poker/src/Enclave/log.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0ZXN0aW5nIGZ1bmN0aW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cG9rZXJfZWNhbGxfcmV0IGRlYWxfcHVibGljX2NhcmQodm9pZCk7Cg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLT5zZXRfZXJyb3IoZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0ZXN0aW5nIGZ1bmN0aW9ucwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdHJpbmc+Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">IHByaXZhdGU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IHB1YmxpYzoK</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLT5zZXRfZXJyb3IoZmFsc2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IHB1YmxpYzoKICBjb25zdCBzdHJpbmcgJmdldFVzZXJpZCgpIGNvbnN0IHsKICAgIHJldHVybiB1c2VyaWQ7CiAgfQogIGNvbnN0IHN0cmluZyAmZ2V0RW5kcG9pbnQoKSBjb25zdCB7CiAgICByZXR1cm4gZW5kcG9pbnQ7CiAgfQogIGNvbnN0IHN0cmluZyAmZ2V0Q2VydCgpIGNvbnN0IHsKICAgIHJldHVybiBjZXJ0OwogIH0K</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLT5zZXRfZXJyb3IoZmFsc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInBwcmludC5oIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50Zl9zdGQoKQo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLT5zZXRfZXJyb3IoZmFsc2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50Zgo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLT5zZXRfZXJyb3IoZmFsc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExMX05PVElDRSgiZGVhbGluZyB0byAlc0AlcyIpCg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLT5zZXRfZXJyb3IoZmFsc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
