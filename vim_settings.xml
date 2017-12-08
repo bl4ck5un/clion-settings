@@ -419,6 +419,9 @@
         <mark key="]" line="16" column="5" />
         <mark key="." line="13" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/poker/src/Enclave/table.cpp" timestamp="1512747190708">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/external/gmtime.h" timestamp="1506455138875">
         <mark key="[" line="56" column="7" />
         <mark key="]" line="56" column="34" />
@@ -493,10 +496,11 @@
         <mark key="^" line="111" column="6" />
         <mark key="." line="111" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/poker/src/Enclave/state_player_registra.cpp" timestamp="1512593032554">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/poker/src/Enclave/state_player_registra.cpp" timestamp="1512747304521">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/merkle.cpp" timestamp="1505943941851">
         <mark key="[" line="35" column="27" />
@@ -914,13 +918,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2VydCA=</text>
+        <text>errnoh</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2VydCA=</text>
+        <text>errnoh</text>
       </register>
       <register name="/" type="4">
         <text>my_verify</text>
