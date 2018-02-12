@@ -471,6 +471,7 @@
         <mark key="." line="52" column="4" />
         <mark key="^" line="52" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/utils.cpp" timestamp="1518468469265" />
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/base64.cpp" timestamp="1506108395166">
         <mark key="[" line="330" column="34" />
         <mark key="]" line="330" column="34" />
@@ -739,6 +740,9 @@
         <mark key="]" line="305" column="22" />
         <mark key="^" line="112" column="25" />
         <mark key="." line="305" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518468473904">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/common.h" timestamp="1506627855544">
         <mark key="[" line="0" column="0" />
