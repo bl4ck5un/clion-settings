@@ -471,7 +471,6 @@
         <mark key="." line="52" column="4" />
         <mark key="^" line="52" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/Town-Crier/src/App/utils.cpp" timestamp="1518468469265" />
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/base64.cpp" timestamp="1506108395166">
         <mark key="[" line="330" column="34" />
         <mark key="]" line="330" column="34" />
@@ -741,7 +740,7 @@
         <mark key="^" line="112" column="25" />
         <mark key="." line="305" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518468473904">
+      <file name="/Dummy.txt" timestamp="1518544246776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/common.h" timestamp="1506627855544">
@@ -844,12 +843,12 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/CMakeLists.txt" timestamp="1506522150491">
+      <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/CMakeLists.txt" timestamp="1518544331910">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="57" column="63" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="1" column="28" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/interrupt.h" timestamp="1506022800938">
         <mark key="[" line="16" column="9" />
@@ -961,8 +960,8 @@
       <jump line="3" column="9" filename="$USER_HOME$/dev/poker/src/Enclave/state.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>deal_public_card</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -977,31 +976,31 @@
         <text encoding="base64">cG9rZXJfZWNhbGxfcmV0IGRlYWxfcHJpdmF0ZV9jYXJkKGNvbnN0IGNoYXIgKnVzZXJfaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cG9rZXJfZWNhbGxfcmV0IGRlYWxfcHJpdmF0ZV9jYXJkKHZvaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwb2tlcl9lY2FsbF9yZXQgZGVhbF9wcml2YXRlX2NhcmQoY29uc3QgY2hhciAqdXNlcl9pZCkgewo=</text>
+        <text encoding="base64">YWRkX2N1c3RvbV9jb21tYW5kKAogICAgICAgIE9VVFBVVCAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vRW5jbGF2ZV90LmMKICAgICAgICBDT01NQU5EICR7U0dYX0VER0VSOFJ9IC0tdHJ1c3RlZCAke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vRW5jbGF2ZS5lZGwKICAgICAgICAtLXNlYXJjaC1wYXRoICR7VENfUk9PVF9ESVJ9L0VuY2xhdmUKICAgICAgICAtLXNlYXJjaC1wYXRoICR7U0dYX1NES30vaW5jbHVkZQogICAgICAgIFdPUktJTkdfRElSRUNUT1JZICR7Q01BS0VfQ1VSUkVOVF9TT1VSQ0VfRElSfSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldCA9IC0xOwo=</text>
+        <text encoding="base64">U0VUKFNPVVJDRV9GSUxFUyAke1RDX1NPVVJDRV9GSUxFU30gJHtURVNUX1NSQ19GSUxFU30gJHtTQ1JBUEVSU19TUkNfRklMRVN9ICR7RVhURVJOQUxfU1JDX0ZJTEVTfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldCA9IC0xOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">cG9rZXJfZWNhbGxfcmV0IGRlYWxfcHJpdmF0ZV9jYXJkKHZvaWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8gaXQgPSB1c2Vycy5iZWdpbigpOyBpdCAhPSB1c2Vycy5lbmQoKTsgKytpdCkgewo=</text>
+        <text encoding="base64">ICBwb2tlcl9lY2FsbF9yZXQgZGVhbF9wcml2YXRlX2NhcmQoY29uc3QgY2hhciAqdXNlcl9pZCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldCA9IC0xOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8gaXQgPSB1c2Vycy5iZWdpbigpOyBpdCAhPSB1c2Vycy5lbmQoKTsgKytpdCkgewogIH0K</text>
+        <text encoding="base64">ICAgIHJldCA9IC0xOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
