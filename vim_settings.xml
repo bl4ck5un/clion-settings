@@ -33,12 +33,12 @@
         <mark key="^" line="232" column="16" />
         <mark key="." line="254" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/Town-Crier/src/App/CMakeLists.txt" timestamp="1518633207440">
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/CMakeLists.txt" timestamp="1518640427417">
         <mark key="'" line="67" column="4" />
-        <mark key="[" line="163" column="28" />
-        <mark key="]" line="163" column="28" />
-        <mark key="." line="163" column="28" />
-        <mark key="^" line="163" column="43" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="4" />
+        <mark key="." line="83" column="4" />
+        <mark key="^" line="83" column="18" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/event_handler.cpp" timestamp="1518631764412">
         <mark key="'" line="74" column="19" />
@@ -102,7 +102,6 @@
         <mark key="." line="127" column="26" />
         <mark key="^" line="127" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/Enclave_t.h" timestamp="1518631950814" />
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_server_threaded.cpp" timestamp="1510689413882">
         <mark key="[" line="160" column="28" />
         <mark key="]" line="160" column="28" />
@@ -211,6 +210,11 @@
         <mark key="]" line="145" column="29" />
         <mark key="." line="145" column="29" />
         <mark key="^" line="37" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/test/tc-test.cpp" timestamp="1518640790965">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_server_threaded_t.h" timestamp="1511284015277">
         <mark key="[" line="71" column="30" />
@@ -339,10 +343,10 @@
         <mark key="^" line="13" column="53" />
         <mark key="." line="13" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/Town-Crier/src/App/tc.cpp" timestamp="1518633335857">
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/tc.cpp" timestamp="1518640151803">
         <mark key="'" line="77" column="10" />
-        <mark key="[" line="93" column="43" />
-        <mark key="]" line="93" column="43" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="62" />
         <mark key="^" line="58" column="13" />
         <mark key="." line="93" column="43" />
       </file>
@@ -386,10 +390,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/Town-Crier/src/App/test/transaction.cpp" timestamp="1506525442816">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/test/transaction.cpp" timestamp="1518640652625">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="52" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="65" column="51" />
       </file>
       <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/mbedtls_error.c" timestamp="1510776144329">
         <mark key="[" line="105" column="21" />
@@ -463,6 +468,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="43" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/test/SGXTestBase.h" timestamp="1518640544539">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/blazingTLS-SGX/untrusted/e_server.cpp" timestamp="1510862681402">
         <mark key="'" line="104" column="43" />
         <mark key="[" line="84" column="38" />
@@ -495,6 +505,12 @@
         <mark key="]" line="54" column="30" />
         <mark key="." line="54" column="30" />
         <mark key="^" line="54" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/test/keygen.cpp" timestamp="1518640733060">
+        <mark key="[" line="78" column="56" />
+        <mark key="]" line="78" column="60" />
+        <mark key="." line="78" column="60" />
+        <mark key="^" line="78" column="60" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/shuffle.h" timestamp="1512758857807">
         <mark key="[" line="13" column="7" />
@@ -577,6 +593,12 @@
         <mark key="]" line="91" column="31" />
         <mark key="." line="91" column="31" />
         <mark key="^" line="91" column="78" />
+      </file>
+      <file name="$USER_HOME$/dev/Town-Crier/src/App/test/attestation.cpp" timestamp="1518640617625">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="51" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/test/google_test.cpp" timestamp="1518632154042">
         <mark key="[" line="47" column="10" />
@@ -1146,47 +1168,47 @@
       <jump line="55" column="2" filename="$USER_HOME$/dev/Town-Crier/src/App/bookkeeping/database.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>fprint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWNyb3NcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>${CMAKE_SOURCE_DIR}/config-release</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW50IG1haW4oaW50IGFyZ2MsIGNoYXIgKiphcmd2KSB7CiAgbG9nNGN4eDo6UHJvcGVydHlDb25maWd1cmF0b3I6OmNvbmZpZ3VyZShMT0dHSU5HX0NPTkZfRklMRSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3RleHByIGNoYXIgTE9HR0lOR19DT05GX0ZJTEVbXSA9ICJjb25mL2xvZ2dpbmcuY29uZiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5zdGFsbChGSUxFUyAke0NNQUtFX1NPVVJDRV9ESVJ9L2NvbmZpZy1zaW0tdGVzdCBERVNUSU5BVElPTiBjb25mKQppbnN0YWxsKEZJTEVTICR7Q01BS0VfU09VUkNFX0RJUn0vY29uZmlnLXJlbGVhc2UgREVTVElOQVRJT04gY29uZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2c0Y3h4OjpQcm9wZXJ0eUNvbmZpZ3VyYXRvcjo6Y29uZmlndXJlKExPR0dJTkdfQ09ORl9GSUxFKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2RlZmluZSBMT0dVUlVfSU1QTEVNRU5UQVRJT04gMQo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIHRjIHsKbmFtZXNwYWNlIHRlc3Qgewpsb2c0Y3h4OjpMb2dnZXJQdHIgbG9nZ2VyKGxvZzRjeHg6OkxvZ2dlcjo6Z2V0TG9nZ2VyKCJ0Yy10ZXN0LmNwcCIpKTsKfQp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb2d1cnU6OmluaXQoYXJnYywgYXJndik7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y2VyciA8PCAiRXJyb3I6ICIgPDwgZS53aGF0KCkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBpbml0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgIExMX0NSSVRJQ0FMKGUud2hhdCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExMX0NSSVRJQ0FMKCJlcnJvcjogJXMiLCBlLndoYXQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RkOjphdG9taWM8Ym9vbD4gcXVpdChmYWxzZSk7CnZvaWQgZXhpdEdyYWNlZnVsKGludCkgeyBxdWl0LnN0b3JlKHRydWUpOyB9Cgo=</text>
+        <text encoding="base64">dXNpbmcgc3RkOjpjb3V0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2d1cnU6Omdfc3RkZXJyX3ZlcmJvc2l0eSA9IGxvZ3VydTo6VmVyYm9zaXR5X1dBUk5JTkc7CiAgbG9ndXJ1Ojppbml0KGFyZ2MsIGFyZ3YpOwo=</text>
+        <text encoding="base64">ICBsb2c0Y3h4OjpMb2dnZXJQdHIgbG9nZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
