@@ -307,6 +307,12 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/poker-rust/hello-rust/Cargo.toml" timestamp="1519163267060">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/scrapers/ups_tracking.cpp" timestamp="1506523471838">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="36" />
@@ -1168,14 +1174,14 @@
       <jump line="55" column="2" filename="$USER_HOME$/dev/Town-Crier/src/App/bookkeeping/database.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>abci</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>fprint</text>
+        <text>abci</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWNyb3NcPg==</text>
@@ -1187,28 +1193,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsb2c0Y3h4OjpQcm9wZXJ0eUNvbmZpZ3VyYXRvcjo6Y29uZmlndXJlKExPR0dJTkdfQ09ORl9GSUxFKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIHRjIHsKbmFtZXNwYWNlIHRlc3Qgewpsb2c0Y3h4OjpMb2dnZXJQdHIgbG9nZ2VyKGxvZzRjeHg6OkxvZ2dlcjo6Z2V0TG9nZ2VyKCJ0Yy10ZXN0LmNwcCIpKTsKfQp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y2VyciA8PCAiRXJyb3I6ICIgPDwgZS53aGF0KCkgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICBsb2c0Y3h4OjpQcm9wZXJ0eUNvbmZpZ3VyYXRvcjo6Y29uZmlndXJlKExPR0dJTkdfQ09ORl9GSUxFKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExMX0NSSVRJQ0FMKGUud2hhdCgpKTsK</text>
+        <text encoding="base64">bmFtZXNwYWNlIHRjIHsKbmFtZXNwYWNlIHRlc3Qgewpsb2c0Y3h4OjpMb2dnZXJQdHIgbG9nZ2VyKGxvZzRjeHg6OkxvZ2dlcjo6Z2V0TG9nZ2VyKCJ0Yy10ZXN0LmNwcCIpKTsKfQp9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExMX0NSSVRJQ0FMKCJlcnJvcjogJXMiLCBlLndoYXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y2VyciA8PCAiRXJyb3I6ICIgPDwgZS53aGF0KCkgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgc3RkOjpjb3V0Owo=</text>
+        <text encoding="base64">ICAgIExMX0NSSVRJQ0FMKGUud2hhdCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2c0Y3h4OjpMb2dnZXJQdHIgbG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgIExMX0NSSVRJQ0FMKCJlcnJvcjogJXMiLCBlLndoYXQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
