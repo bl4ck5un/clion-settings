@@ -53,12 +53,13 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.cpp" timestamp="1520538729735">
-        <mark key="p" line="9" column="29" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.cpp" timestamp="1520540887362">
+        <mark key="p" line="11" column="29" />
+        <mark key="'" line="25" column="13" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="38" column="52" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/common/ssl_context.h" timestamp="1512591929518">
         <mark key="[" line="8" column="21" />
@@ -259,6 +260,10 @@
         <mark key="^" line="163" column="34" />
         <mark key="." line="164" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_ssl.cpp" timestamp="1520540994136">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="17" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/cmake/FindSGXPSW.cmake" timestamp="1518552110841">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="13" />
@@ -321,6 +326,7 @@
         <mark key="]" line="182" column="36" />
         <mark key="." line="182" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/mbedtls-SGX/trusted/glue.c" timestamp="1520540056200" />
       <file name="$USER_HOME$/dev/Town-Crier/src/CMakeLists.txt" timestamp="1518552153165">
         <mark key="[" line="17" column="46" />
         <mark key="]" line="18" column="0" />
@@ -377,11 +383,11 @@
         <mark key="^" line="43" column="26" />
         <mark key="." line="43" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/utils.h" timestamp="1520538668613">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
-        <mark key="^" line="9" column="33" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/utils.h" timestamp="1520540218609">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/dev/mbedtls-SGX/example/enclave/Enclave.edl" timestamp="1510777509816">
         <mark key="[" line="1" column="20" />
@@ -509,11 +515,12 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="105" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.h" timestamp="1511284065941">
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="54" column="30" />
-        <mark key="." line="54" column="30" />
-        <mark key="^" line="54" column="30" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.h" timestamp="1520540238162">
+        <mark key="'" line="69" column="22" />
+        <mark key="[" line="69" column="30" />
+        <mark key="]" line="69" column="28" />
+        <mark key="." line="69" column="28" />
+        <mark key="^" line="69" column="28" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/App/test/keygen.cpp" timestamp="1518640733060">
         <mark key="[" line="78" column="56" />
@@ -648,12 +655,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.cpp" timestamp="1520538691703">
-        <mark key="'" line="110" column="15" />
-        <mark key="[" line="269" column="27" />
-        <mark key="]" line="269" column="31" />
-        <mark key="." line="269" column="31" />
-        <mark key="^" line="269" column="31" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.cpp" timestamp="1520540156282">
+        <mark key="'" line="90" column="15" />
+        <mark key="[" line="264" column="36" />
+        <mark key="]" line="264" column="36" />
+        <mark key="." line="264" column="36" />
+        <mark key="^" line="184" column="61" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/macros.h" timestamp="1518629801453">
         <mark key="'" line="9" column="0" />
@@ -836,12 +843,12 @@
         <mark key="." line="38" column="22" />
         <mark key="^" line="38" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/utils.cpp" timestamp="1506105380281">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="111" column="24" />
-        <mark key="]" line="111" column="36" />
-        <mark key="." line="111" column="36" />
-        <mark key="^" line="111" column="36" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/utils.cpp" timestamp="1520540192790">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave_rpc.h" timestamp="1506021407391">
         <mark key="[" line="18" column="21" />
@@ -867,11 +874,11 @@
         <mark key="^" line="134" column="22" />
         <mark key="." line="134" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/utils.h" timestamp="1506091771817">
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="51" />
-        <mark key="^" line="17" column="51" />
-        <mark key="." line="17" column="51" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/utils.h" timestamp="1520540203275">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="13" column="51" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/log.c" timestamp="1510692860257">
         <mark key="[" line="3" column="0" />
@@ -925,12 +932,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_server_threaded_t.cpp" timestamp="1511286261720">
-        <mark key="'" line="28" column="10" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="305" column="22" />
-        <mark key="^" line="112" column="25" />
-        <mark key="." line="305" column="22" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_server_threaded_t.cpp" timestamp="1520541082144">
+        <mark key="'" line="22" column="10" />
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="50" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="30" column="50" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/App/eth_rpc.cpp" timestamp="1518627282487">
         <mark key="[" line="63" column="0" />
@@ -944,7 +951,7 @@
         <mark key="^" line="52" column="21" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520527142968">
+      <file name="/Dummy.txt" timestamp="1520540944080">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/common.h" timestamp="1506627855544">
@@ -1013,7 +1020,7 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="37" column="33" />
       </file>
-      <file name="/fragment.mm" timestamp="1510691598772">
+      <file name="/fragment.mm" timestamp="1520540961482">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -1041,12 +1048,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" timestamp="1520538612438">
-        <mark key="'" line="11" column="18" />
-        <mark key="[" line="43" column="11" />
-        <mark key="]" line="43" column="15" />
-        <mark key="." line="43" column="15" />
-        <mark key="^" line="43" column="15" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" timestamp="1520540474364">
+        <mark key="'" line="117" column="1" />
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="117" column="25" />
+        <mark key="." line="117" column="25" />
+        <mark key="^" line="117" column="25" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" timestamp="1512756470967">
         <mark key="'" line="5" column="14" />
@@ -1079,19 +1086,13 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/exception.h" timestamp="1520538773767">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="10" column="7" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/exception.h" timestamp="1520538838384">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="6" filename="$USER_HOME$/CLionProjects/blazingTLS-SGX/enclave/Log.h" />
-      <jump line="18" column="23" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state.cpp" />
-      <jump line="6" column="16" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_cert_rsa.cpp" />
-      <jump line="169" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_cert_rsa.cpp" />
-      <jump line="39" column="22" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_cert_rsa.cpp" />
       <jump line="220" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_cert_rsa.cpp" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_cert_rsa.cpp" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_cert_rsa.cpp" />
@@ -1187,49 +1188,54 @@
       <jump line="46" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
       <jump line="7" column="18" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
+      <jump line="20" column="3" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.cpp" />
+      <jump line="68" column="22" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.h" />
+      <jump line="24" column="13" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.cpp" />
+      <jump line="110" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
+      <jump line="116" column="1" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgZXhjZXB0aW9uIHsKCn07Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmVjdG9yPHVpbnQ4X3Q+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWNyb3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBzdGF0aWMgYXV0byByb2xlID0gTEVBREVSOwo=</text>
+        <text encoding="base64">ICB0cnkgewogICAgc3RhdGU6OmZhaXJuZXNzU2VydmVyVHJ1c3RlZFBhcnQgPSBuZXcgU1NMU2VydmVyQ29udGV4dCgpOwogIH0KICBjYXRjaCAoY29uc3Qgc3RkOjpleGNlcHRpb24gJmUpIHsKICAgIExMX0NSSVRJQ0FMKCJjYW5ub3QgaW5pdCB0bHM6ICVzIiwgZS53aGF0KCkpOwogICAgcmV0dXJuIC0xOwogIH0KICBjYXRjaCAoLi4uKSB7CiAgICBMTF9DUklUSUNBTCgiY2Fubm90IGluaXQgdGxzOiAlcyIsICJ1bmtub3duIGVycm9yIik7CiAgICByZXR1cm4gLTE7CiAgfQoKICByZXR1cm4gMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgZXhjZXB0aW9uIHsKCn07Cg==</text>
+        <text encoding="base64">ICAgICAgLmdldEZhaXJuZXNzU2VydmVyQ2VydFBFTSgpLmRhdGEoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB0cnkgewogICAgc3RhdGU6OmZhaXJuZXNzU2VydmVyVHJ1c3RlZFBhcnQgPSBuZXcgU1NMU2VydmVyQ29udGV4dCgpOwogICAgdGhpcy0+c2VydmVyVGxzQ29ubgogIH0KICBjYXRjaCAoY29uc3Qgc3RkOjpleGNlcHRpb24gJmUpIHsKICAgIExMX0NSSVRJQ0FMKCJjYW5ub3QgaW5pdCB0bHM6ICVzIiwgZS53aGF0KCkpOwogICAgcmV0dXJuIC0xOwogIH0KICBjYXRjaCAoLi4uKSB7CiAgICBMTF9DUklUSUNBTCgiY2Fubm90IGluaXQgdGxzOiAlcyIsICJ1bmtub3duIGVycm9yIik7CiAgICByZXR1cm4gLTE7CiAgfQoKICByZXR1cm4gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8gcCA6IHRoaXMtPnBlZXJzKSB7CiAgICBwLnNlbmQobXNnLnNlcmlhbGl6ZSgpKTsKICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8VExTQ2xpZW50PiBwZWVyc190bHNfY29ubjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBmYW56IG9uIDkvMjAvMTcuCi8vCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdHJpbmc+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdHJpbmc+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c3RydWN0IENhbm5vdERpc3NlbWluYXRlIDogcHVibGljIHN0ZDo6ZXhjZXB0aW9uIHsKICBjb25zdCBjaGFyKiB3aGF0KCkgY29uc3QgdGhyb3coKSBvdmVycmlkZSB7CiAgICByZXR1cm4gImNhbm5vdCBkaXNzZW1pbmF0ZSBmYWlybmVzcyBtZXNzYWdlcyI7CiAgfQp9Owo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldCA9IG5fZGF0YTsK</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
