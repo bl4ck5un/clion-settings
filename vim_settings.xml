@@ -53,10 +53,10 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.cpp" timestamp="1520529274324">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.cpp" timestamp="1520536240646">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/common/ssl_context.h" timestamp="1512591929518">
         <mark key="[" line="8" column="21" />
@@ -1039,11 +1039,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" timestamp="1520530885002">
-        <mark key="[" line="72" column="39" />
-        <mark key="]" line="72" column="39" />
-        <mark key="." line="72" column="39" />
-        <mark key="^" line="72" column="49" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" timestamp="1520536220638">
+        <mark key="'" line="7" column="18" />
+        <mark key="[" line="67" column="31" />
+        <mark key="]" line="67" column="46" />
+        <mark key="." line="67" column="46" />
+        <mark key="^" line="67" column="46" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" timestamp="1512756470967">
         <mark key="'" line="5" column="14" />
@@ -1174,53 +1175,53 @@
       <jump line="55" column="2" filename="$USER_HOME$/dev/Town-Crier/src/App/bookkeeping/database.cpp" />
       <jump line="115" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/Utils.cpp" />
       <jump line="29" column="17" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/fairness.h" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
       <jump line="54" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
+      <jump line="7" column="18" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBUTFNDbGllbnQgY2xpZW50KCkK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWNyb3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHR4XzFfY2FuY2VsID0gc3RkOjptb3ZlKG90aGVyLnR4XzFfY2FuY2VsKTsK</text>
+        <text encoding="base64">ICBjb25zdCBzdGF0aWMgYXV0byByb2xlID0gTEVBREVSOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICBUTFNDbGllbnQgY2xpZW50KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzdGQ6OnN0cmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0eF8xID0gc3RkOjptb3ZlKG90aGVyLnR4XzEpOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgInRsc19zZXJ2ZXJfdGhyZWFkZWRfdC5oIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBTU0xTZXJ2ZXJDb250ZXh0IHNlcnZlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHR4XzFfY2FuY2VsID0gc3RkOjptb3ZlKG90aGVyLnR4XzFfY2FuY2VsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IHB1YmxpYzoK</text>
+        <text encoding="base64">ICAgICAgdHhfMV9jYW5jZWwoc3RkOjptb3ZlKG90aGVyLnR4XzFfY2FuY2VsKSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgZmFpcm5lc3NNZXNzYWdlIHsKIHByaXZhdGU6CiAgc3RkOjp2ZWN0b3I8dWludDhfdD4gdHhfMTsKICBzdGQ6OnZlY3Rvcjx1aW50OF90PiB0eF8xX2NhbmNlbDsKICBzdGQ6OnZlY3Rvcjx1aW50OF90PiB0eF8yOwogIHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+IHR4XzJfY2FuY2VsOwp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmYWlybmVzc1Byb3RvY29sKCkgewogICAgLy8gY3JlYXRlIGEgY2xpZW50IGFuZCBhIHNlcnZlcgogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLy8gbWV0aG9kcyBmb3IgYmFja3VwIChpLmUuIHNlcnZlcnMpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
