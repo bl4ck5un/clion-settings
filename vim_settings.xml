@@ -47,19 +47,19 @@
         <mark key="." line="47" column="14" />
         <mark key="^" line="47" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state.h" timestamp="1511284260207">
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state.h" timestamp="1520541385683">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.cpp" timestamp="1520540887362">
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.cpp" timestamp="1520541813304">
         <mark key="p" line="11" column="29" />
         <mark key="'" line="25" column="13" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="38" column="52" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="71" />
+        <mark key="." line="44" column="52" />
+        <mark key="^" line="44" column="52" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/common/ssl_context.h" timestamp="1512591929518">
         <mark key="[" line="8" column="21" />
@@ -260,7 +260,7 @@
         <mark key="^" line="163" column="34" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_ssl.cpp" timestamp="1520540994136">
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_ssl.cpp" timestamp="1520541746479">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="17" column="10" />
       </file>
@@ -932,12 +932,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_server_threaded_t.cpp" timestamp="1520541082144">
-        <mark key="'" line="22" column="10" />
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="30" column="50" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_server_threaded_t.cpp" timestamp="1520541787914">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="126" column="50" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="63" column="19" />
+        <mark key="^" line="63" column="19" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/App/eth_rpc.cpp" timestamp="1518627282487">
         <mark key="[" line="63" column="0" />
@@ -951,7 +951,7 @@
         <mark key="^" line="52" column="21" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520540944080">
+      <file name="/Dummy.txt" timestamp="1520541399813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/common.h" timestamp="1506627855544">
@@ -1020,7 +1020,7 @@
         <mark key="^" line="41" column="34" />
         <mark key="." line="37" column="33" />
       </file>
-      <file name="/fragment.mm" timestamp="1520540961482">
+      <file name="/fragment.mm" timestamp="1520541400925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -1048,12 +1048,12 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" timestamp="1520540474364">
-        <mark key="'" line="117" column="1" />
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="117" column="25" />
-        <mark key="." line="117" column="25" />
-        <mark key="^" line="117" column="25" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" timestamp="1520541821585">
+        <mark key="'" line="121" column="1" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="106" column="61" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/enclave_test.cpp" timestamp="1512756470967">
         <mark key="'" line="5" column="14" />
@@ -1195,47 +1195,47 @@
       <jump line="116" column="1" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2b2lkIGhhbmRsZSgpOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>::</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWNyb3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgc3RhdGU6OmZhaXJuZXNzU2VydmVyVHJ1c3RlZFBhcnQgPSBuZXcgU1NMU2VydmVyQ29udGV4dCgpOwogIH0KICBjYXRjaCAoY29uc3Qgc3RkOjpleGNlcHRpb24gJmUpIHsKICAgIExMX0NSSVRJQ0FMKCJjYW5ub3QgaW5pdCB0bHM6ICVzIiwgZS53aGF0KCkpOwogICAgcmV0dXJuIC0xOwogIH0KICBjYXRjaCAoLi4uKSB7CiAgICBMTF9DUklUSUNBTCgiY2Fubm90IGluaXQgdGxzOiAlcyIsICJ1bmtub3duIGVycm9yIik7CiAgICByZXR1cm4gLTE7CiAgfQoKICByZXR1cm4gMDsK</text>
+        <text encoding="base64">dm9pZCBGb2xsb3dlcjo6aGFuZGxlKGxvbmcgaW50IHRocmVhZF9pZCwgdGhyZWFkX2luZm9fdCAqdGhyZWFkX2luZm8pIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmdldEZhaXJuZXNzU2VydmVyQ2VydFBFTSgpLmRhdGEoKSwK</text>
+        <text encoding="base64">ICB2b2lkIGhhbmRsZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICA6c2VydmVyVGxzQ29ubihjZXJ0LCBzaykgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgc3RhdGU6OmZhaXJuZXNzU2VydmVyVHJ1c3RlZFBhcnQgPSBuZXcgU1NMU2VydmVyQ29udGV4dCgpOwogICAgdGhpcy0+c2VydmVyVGxzQ29ubgogIH0KICBjYXRjaCAoY29uc3Qgc3RkOjpleGNlcHRpb24gJmUpIHsKICAgIExMX0NSSVRJQ0FMKCJjYW5ub3QgaW5pdCB0bHM6ICVzIiwgZS53aGF0KCkpOwogICAgcmV0dXJuIC0xOwogIH0KICBjYXRjaCAoLi4uKSB7CiAgICBMTF9DUklUSUNBTCgiY2Fubm90IGluaXQgdGxzOiAlcyIsICJ1bmtub3duIGVycm9yIik7CiAgICByZXR1cm4gLTE7CiAgfQoKICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgUGVlckluZm8mIGxlYWRlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAmc3RhdGUuZ2V0RmFpcm5lc3NTZXJ2ZXJLZXkoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBmYW56IG9uIDkvMjAvMTcuCi8vCgo=</text>
+        <text encoding="base64">ICAgICAgLmdldEZhaXJuZXNzU2VydmVyQ2VydFBFTSgpLmRhdGEoKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdHJpbmc+Cg==</text>
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdHJpbmc+Cg==</text>
+        <text encoding="base64">ICB0cnkgewogICAgc3RhdGU6OmZhaXJuZXNzU2VydmVyVHJ1c3RlZFBhcnQgPSBuZXcgU1NMU2VydmVyQ29udGV4dCgpOwogICAgdGhpcy0+c2VydmVyVGxzQ29ubgogIH0KICBjYXRjaCAoY29uc3Qgc3RkOjpleGNlcHRpb24gJmUpIHsKICAgIExMX0NSSVRJQ0FMKCJjYW5ub3QgaW5pdCB0bHM6ICVzIiwgZS53aGF0KCkpOwogICAgcmV0dXJuIC0xOwogIH0KICBjYXRjaCAoLi4uKSB7CiAgICBMTF9DUklUSUNBTCgiY2Fubm90IGluaXQgdGxzOiAlcyIsICJ1bmtub3duIGVycm9yIik7CiAgICByZXR1cm4gLTE7CiAgfQoKICByZXR1cm4gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RydWN0IENhbm5vdERpc3NlbWluYXRlIDogcHVibGljIHN0ZDo6ZXhjZXB0aW9uIHsKICBjb25zdCBjaGFyKiB3aGF0KCkgY29uc3QgdGhyb3coKSBvdmVycmlkZSB7CiAgICByZXR1cm4gImNhbm5vdCBkaXNzZW1pbmF0ZSBmYWlybmVzcyBtZXNzYWdlcyI7CiAgfQp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldCA9IG5fZGF0YTsK</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBmYW56IG9uIDkvMjAvMTcuCi8vCgo=</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
