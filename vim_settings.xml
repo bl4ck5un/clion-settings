@@ -47,12 +47,6 @@
         <mark key="." line="47" column="14" />
         <mark key="^" line="47" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state.h" timestamp="1520548535800">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="43" column="44" />
-      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.cpp" timestamp="1520547627430">
         <mark key="p" line="9" column="29" />
         <mark key="'" line="23" column="13" />
@@ -245,9 +239,9 @@
         <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state.cpp" timestamp="1511284205765">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/App/status_rpc_server.cpp" timestamp="1518632103628">
         <mark key="[" line="68" column="0" />
@@ -260,11 +254,6 @@
         <mark key="]" line="164" column="0" />
         <mark key="^" line="163" column="34" />
         <mark key="." line="164" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_ssl.cpp" timestamp="1520549247340">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/cmake/FindSGXPSW.cmake" timestamp="1518552110841">
         <mark key="[" line="11" column="14" />
@@ -303,9 +292,6 @@
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls.h" timestamp="1520548091507">
         <mark key="'" line="5" column="10" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/deader.h" timestamp="1512764458946">
         <mark key="[" line="7" column="37" />
@@ -943,13 +929,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_server_threaded_t.cpp" timestamp="1520544260460">
-        <mark key="'" line="24" column="10" />
-        <mark key="[" line="32" column="51" />
-        <mark key="]" line="32" column="51" />
-        <mark key="." line="32" column="51" />
-        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/App/eth_rpc.cpp" timestamp="1518627282487">
         <mark key="[" line="63" column="0" />
