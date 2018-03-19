@@ -5,7 +5,6 @@
       <mapping pattern="configure" type="PLAIN_TEXT" />
       <mapping ext="edl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
