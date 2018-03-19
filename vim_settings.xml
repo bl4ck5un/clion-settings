@@ -691,6 +691,9 @@
         <mark key="." line="118" column="102" />
         <mark key="^" line="118" column="101" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/config.ini" timestamp="1521491875886">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/macros.h" timestamp="1518629801453">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="8" column="10" />
@@ -783,7 +786,6 @@
         <mark key="^" line="1" column="51" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/libsodium-1.0.16/src/libsodium/include/sodium.h" timestamp="1521228650562" />
       <file name="$USER_HOME$/dev/poker/src/untrusted/poker.cpp" timestamp="1512756513217">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
