@@ -159,8 +159,8 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave-rpc-client-impl.cpp" timestamp="1521570723714">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave-rpc-client-impl.cpp" timestamp="1521572901118">
+        <mark key="[" line="50" column="24" />
         <mark key="]" line="20" column="1" />
         <mark key="." line="50" column="25" />
         <mark key="^" line="50" column="29" />
@@ -503,7 +503,7 @@
         <mark key="." line="1" column="21" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" timestamp="1521567545318">
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" timestamp="1521573007933">
         <mark key="'" line="3" column="1" />
         <mark key="[" line="32" column="11" />
         <mark key="]" line="33" column="0" />
@@ -1147,6 +1147,13 @@
         <mark key="]" line="8" column="3" />
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
+      </file>
+      <file name="/fragment.mm" timestamp="1521562674178">
+        <mark key="'" line="0" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/CMakeLists.txt" timestamp="1518630191754">
         <mark key="'" line="119" column="22" />
