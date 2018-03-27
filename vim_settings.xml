@@ -15,17 +15,23 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/exch-merkleproof.cpp" timestamp="1522171660295">
-        <mark key="[" line="9" column="70" />
-        <mark key="]" line="9" column="73" />
-        <mark key="." line="9" column="73" />
-        <mark key="^" line="9" column="73" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/exch-merkleproof.cpp" timestamp="1522174185117">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="29" column="40" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state.h" timestamp="1521575589363">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="^" line="63" column="1" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/bitcoind-merkleproof.h" timestamp="1522174212669">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/common/errno.h" timestamp="1512593161649">
         <mark key="[" line="0" column="0" />
@@ -179,9 +185,9 @@
         <mark key="^" line="50" column="29" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/fariness_ocall.cpp" timestamp="1522171850898">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/mbedtls-SGX/example/untrusted/CMakeLists.txt" timestamp="1512592186457">
         <mark key="[" line="13" column="53" />
@@ -218,11 +224,11 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/CMakeLists.txt" timestamp="1522172182668">
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="39" column="23" />
-        <mark key="." line="39" column="23" />
-        <mark key="^" line="39" column="23" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/CMakeLists.txt" timestamp="1522173566022">
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="31" />
+        <mark key="^" line="51" column="31" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/App/test/SGXTestBase.h" timestamp="1518640544539">
         <mark key="[" line="54" column="0" />
@@ -470,12 +476,11 @@
       <file name="/Dummy.txt" timestamp="1522170310992">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkpath/merkpath.cpp" timestamp="1522172341253">
-        <mark key="'" line="299" column="58" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="21" column="65" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkpath/merkpath.cpp" timestamp="1522173430838">
+        <mark key="[" line="55" column="17" />
+        <mark key="]" line="55" column="14" />
+        <mark key="." line="55" column="14" />
+        <mark key="^" line="55" column="14" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/Utils.cpp" timestamp="1520527317914">
         <mark key="'" line="115" column="0" />
@@ -588,14 +593,6 @@
         <mark key="." line="47" column="14" />
         <mark key="^" line="47" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.cpp" timestamp="1521577685911">
-        <mark key="p" line="6" column="29" />
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="12" />
-        <mark key="^" line="27" column="12" />
-        <mark key="." line="27" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/poker/src/common/ssl_context.h" timestamp="1512591929518">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="21" />
@@ -613,6 +610,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="11" column="27" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/bitcoind-merkleproof.cpp" timestamp="1522174209574">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/log.h" timestamp="1512763248893">
         <mark key="'" line="73" column="4" />
@@ -732,12 +735,6 @@
         <mark key="^" line="163" column="34" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/BitcoinMerkleProof.cpp" timestamp="1522172363821">
-        <mark key="[" line="10" column="54" />
-        <mark key="]" line="10" column="54" />
-        <mark key="." line="10" column="54" />
-        <mark key="^" line="9" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/cmake/FindSGXPSW.cmake" timestamp="1518552110841">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="13" />
@@ -795,12 +792,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/BitcoinMerkleProof.h" timestamp="1522172246877">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
-        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/CMakeLists.txt" timestamp="1518552153165">
         <mark key="[" line="17" column="46" />
@@ -1095,12 +1086,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkpath/merkpath.h" timestamp="1522172457039">
-        <mark key="[" line="59" column="2" />
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="23" />
-        <mark key="^" line="38" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/utils.cpp" timestamp="1520540192790">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="0" column="18" />
@@ -1332,47 +1317,47 @@
       <jump line="352" column="58" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkpath/merkpath.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>merkpath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBmYW56IG9uIDMvMjcvMTguCi8vCgo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>merkpath</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNQkVEVExTX1NHWF9MSUJfVFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGxvZzRjeHgvbG9nZ2VyLmg+CiNpbmNsdWRlIDxsb2c0Y3h4L3Byb3BlcnR5Y29uZmlndXJhdG9yLmg+Cg==</text>
+        <text encoding="base64">TWVya2xlUHJvb2YgYnVpbGRUeEluY2x1c2lvblByb29mKGNvbnN0IHN0cmluZyYgdHhpZCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGxvZzRjeHgvcHJvcGVydHljb25maWd1cmF0b3IuaD4K</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBmYW56IG9uIDMvMjcvMTguCi8vCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBmYW56IG9uIDMvMjcvMTguCi8vCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGxvZ2dlcj4K</text>
+        <text encoding="base64">ICBMT0c0Q1hYX0lORk8obG9nZ2VyLCAiRG9uZS4iKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImJpdGNvaW5kLW1lcmtsZXByb29mLmgiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TWVya2xlUHJvb2YgQml0Y29pbk1lcmtsZVByb29mOjpidWlsZE1lcmtsZVByb29mKGNvbnN0IHN0cmluZyAmdHhpZCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TWVya2xlUHJvb2YgTWVya2xlUHJvb2Y6OmJ1aWxkTWVya2xlUHJvb2YoY29uc3Qgc3RyaW5nICZ0eGlkKSB7CiAgYml0Y29pblJQQyBycGM7CgogIHRyeSB7CiAgICAvLyBnZXQgdHggYm9keSBmcm9tIHBhcmFtZXRlciB0eGlkCiAgICBKc29uOjpWYWx1ZSB0eG4gPSBycGMuZ2V0cmF3dHJhbnNhY3Rpb24odHhpZCwgdHJ1ZSk7CiAgICBzdHJpbmcgdHhuX2hleCA9IHJwYy5nZXRyYXd0cmFuc2FjdGlvbih0eGlkLCBmYWxzZSkuYXNTdHJpbmcoKTsKCiAgICAvLyBnZXQgdGhlIGNvbnRhaW5pbmcgYmxvY2sKICAgIGlmICghdHhuLmlzTWVtYmVyKCJibG9ja2hhc2giKSkgewogICAgICB0aHJvdyBydW50aW1lX2Vycm9yKCJpbnZhbGlkIHR4aWQiKTsKICAgIH0KICAgIHN0cmluZyBibG9ja19oYXNoID0gdHhuWyJibG9ja2hhc2giXS5hc1N0cmluZygpOwogICAgSnNvbjo6VmFsdWUgYmxvY2sgPSBycGMuZ2V0YmxvY2soYmxvY2tfaGFzaCk7CgogICAgLy8gZ2V0IGFsbCB0eG5zCiAgICB2ZWN0b3I8c3RyaW5nPiBtZXJrbGVfbGVhdmVzOwogICAgaWYgKCFibG9jay5pc01lbWJlcigidHgiKSkgewogICAgICB0aHJvdyBydW50aW1lX2Vycm9yKCJpbnZhbGlkIHR4biIpOwogICAgfQogICAgZm9yIChhdXRvJiB0eCA6IGJsb2NrWyJ0eCJdKSB7CiAgICAgIG1lcmtsZV9sZWF2ZXMucHVzaF9iYWNrKHR4LmFzU3RyaW5nKCkpOwogICAgfQoKICAgIGF1dG8gdHhfaWR4ID0gZGlzdGFuY2UoCiAgICAgICAgbWVya2xlX2xlYXZlcy5iZWdpbigpLAogICAgICAgIGZpbmQobWVya2xlX2xlYXZlcy5iZWdpbigpLCBtZXJrbGVfbGVhdmVzLmVuZCgpLCB0eGlkKSk7CgogICAgaWYgKHR4X2lkeCA+PSBtZXJrbGVfbGVhdmVzLnNpemUoKSkgewogICAgICB0aHJvdyBydW50aW1lX2Vycm9yKCJpbnZhbGlkIGJsb2NrIik7CiAgICB9OwoKICAgIExPRzRDWFhfSU5GTyhsb2dnZXIsICJHZW5lcmF0aW5nIHByb29mIGZvciB0eCAoaW5kZXg9IiA8PCB0eF9pZHggPDwgIikgaW4gYmxvY2sgIyIgPDwgYmxvY2tbImhlaWdodCJdKTsKICAgIExPRzRDWFhfSU5GTyhsb2dnZXIsICJibG9jayBoYXNoPSIgPDwgYmxvY2tfaGFzaCk7CgogICAgTWVya2xlUHJvb2YgcHJvb2YgPSBNZXJrbGVQcm9vZjo6YnVpbGRNZXJrbGVQcm9vZihibG9ja19oYXNoLCB0eG5faGV4LCBtZXJrbGVfbGVhdmVzLCB0eF9pZHgpOwoKICAgIHByb29mLnNldF9ibG9jayhibG9ja19oYXNoKTsKICAgIHByb29mLnNldF90eF9yYXcodHhuX2hleCk7CiAgICBzdHJpbmcgY2FsY19yb290ID0gcHJvb2YudmVyaWZ5KCk7CgogICAgaWYgKGNhbGNfcm9vdCA9PSBibG9ja1sibWVya2xlcm9vdCJdLmFzU3RyaW5nKCkpIHsKICAgICAgTE9HNENYWF9JTkZPKGxvZ2dlciwgInN1Y2NlZWQuIE1lcmtsZSByb290IGlzOiAiIDw8IGNhbGNfcm9vdCk7CiAgICAgIHJldHVybiBwcm9vZjsKICAgIH0KICAgIGVsc2UgewogICAgICB0aHJvdyBydW50aW1lX2Vycm9yKCJmYWlsZWQgdG8gZ2VuZXJhdGUgYSB2YWxpZCBwcm9vZi4gVHJ5IGFnYWluIGxhdGVyLiIpOwogICAgfQogIH0gY2F0Y2ggKGNvbnN0IGJpdGNvaW5SUENFeGNlcHRpb24gJmUpIHsKICAgIHRocm93IHJ1bnRpbWVfZXJyb3IoZS53aGF0KCkpOwogIH0KfQoK</text>
+        <text encoding="base64">aW50IGdlbihjb25zdCBzdGQ6OnN0cmluZyYgdHhpZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7CiAgICBKc29uOjpWYWx1ZSBwcm9vZjsKICAgIHByb29mWyJ0eCJdID0gdHhfaGFzaF9oZXg7CiAgICBwcm9vZlsidHhfcmF3Il0gPSB0eF9yYXdfaGV4OwogICAgcHJvb2ZbImJsb2NrIl0gPSBibG9ja19oYXNoX2hleDsKICAgIHByb29mWyJkaXJ2ZWMiXSA9IGRpcmVjdGlvbjsKICAgIHByb29mWyJicmFuY2giXSA9IEpzb246OmFycmF5VmFsdWU7CgogICAgZm9yIChhdXRvICZiOiBicmFuY2gpIHsKICAgICAgcHJvb2ZbImJyYW5jaCJdLmFwcGVuZChiKTsKICAgIH0KCiAgICBvdXQgPDwgcHJvb2Y7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
