@@ -27,7 +27,7 @@
         <mark key="^" line="63" column="1" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/bitcoind-merkleproof.h" timestamp="1522174212669">
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/bitcoind-merkleproof.h" timestamp="1522425533182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -105,6 +105,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="^" line="43" column="30" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/exch.cpp" timestamp="1522425705507">
+        <mark key="[" line="78" column="87" />
+        <mark key="]" line="78" column="88" />
+        <mark key="^" line="78" column="23" />
+        <mark key="." line="78" column="88" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_server_threaded_t.h" timestamp="1520544245217">
         <mark key="'" line="91" column="0" />
@@ -207,11 +213,11 @@
         <mark key="^" line="141" column="8" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave-rpc-server-impl.cpp" timestamp="1522422291758">
-        <mark key="[" line="119" column="30" />
-        <mark key="]" line="119" column="29" />
-        <mark key="." line="119" column="29" />
-        <mark key="^" line="119" column="29" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/enclave-rpc-server-impl.cpp" timestamp="1522425360545">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="55" column="27" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/interrupt.cpp" timestamp="1506022789114">
         <mark key="[" line="14" column="26" />
@@ -614,11 +620,11 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/bitcoind-merkleproof.cpp" timestamp="1522421476255">
-        <mark key="[" line="27" column="59" />
-        <mark key="]" line="28" column="62" />
-        <mark key="^" line="28" column="62" />
-        <mark key="." line="28" column="62" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/bitcoind-merkleproof.cpp" timestamp="1522425492367">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/log.h" timestamp="1512763248893">
         <mark key="'" line="73" column="4" />
@@ -1341,46 +1347,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>failed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAke09QRU5TU0xfQ1JZUFRPX0xJQlJBUll9Cg==</text>
+        <text encoding="base64">ICBvbkFja0Zyb21GYWlybmVzc0ZvbGxvd2VyKGVpZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICZyZXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWludGVycHJldF9jYXN0PGNvbnN0IHVuc2lnbmVkIGNoYXIgKj4oYWNrLmRhdGEoKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2suc2l6ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvbk1lc3NhZ2VGcm9tRmFpcm5lc3NMZWFkZXIoZWlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmcmV0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWludGVycHJldF9jYXN0PGNvbnN0IHVuc2lnbmVkIGNoYXIgKj4oc2V0dGxlbWVudFBrZy5kYXRhKCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXR0bGVtZW50UGtnLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50X2VyCg==</text>
+        <text encoding="base64">ICBjb3V0IDw8IGlzVHhJbmNsdWRlZCgicmFuZG9tIikgPDwgZW5kbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHV0aWxzOjoK</text>
+        <text encoding="base64">ICBpbnQgcmV0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBMTF9OT1RJQ0UoInNlbmRpbmcgdHgxIik7Cg==</text>
+        <text encoding="base64">ICBvbkFja0Zyb21GYWlybmVzc0ZvbGxvd2VyKGVpZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICZyZXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWludGVycHJldF9jYXN0PGNvbnN0IHVuc2lnbmVkIGNoYXIgKj4oYWNrLmRhdGEoKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2suc2l6ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChzdCAhPSBTR1hfU1VDQ0VTUyB8fCByZXQgIT0gMCkgewogICAgICB0aHJvdyBpbnZhbGlkX2FyZ3VtZW50KCJjYW5ub3Qgc2VuZCB0eDEgdG8gYmxvY2tjaGFpbiIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAocmV0ID09IDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCByZXQ7CiAgICBhdXRvIHN0ID0gY29tbWl0VHhPbmUoJnJldCk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBpbml0aWF0ZSBhIHdhaXRpbmcgb24gVFgxIGFuZCBUWDIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBNZXJrbGVQcm9vZihjb25zdCBzdHJpbmcgJnR4LCB2ZWN0b3I8c3RyaW5nPiAmJmJyYW5jaCwgaW50IGRpcnZlYykKICAgICAgOiB0eF9oYXNoX2hleCh0eCksIGJyYW5jaChicmFuY2gpLCBkaXJlY3Rpb24oZGlydmVjKSB7CiAgfQo=</text>
+        <text encoding="base64">ICByZXR1cm4gKHJldCA9PSAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbnQgcmV0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
