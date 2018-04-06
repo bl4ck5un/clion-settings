@@ -67,6 +67,9 @@
         <mark key="]" line="37" column="19" />
         <mark key="." line="37" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" timestamp="1523036131208">
+        <mark key="'" line="62" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/securechannel.h" timestamp="1522435288159">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -85,6 +88,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="1" column="14" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/keystore.h" timestamp="1523035461168">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/common/picojson.h" timestamp="1521567125008">
         <mark key="[" line="76" column="0" />
@@ -128,6 +137,13 @@
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="30" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/script/standard.h" timestamp="1523036159022">
+        <mark key="'" line="71" column="7" />
+        <mark key="[" line="72" column="16" />
+        <mark key="]" line="72" column="21" />
+        <mark key="." line="72" column="21" />
+        <mark key="^" line="72" column="21" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/log.h" timestamp="1518631470162">
         <mark key="[" line="1" column="17" />
@@ -423,6 +439,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="11" column="51" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/CMakeLists.txt" timestamp="1523035288026">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/tls_server_threaded_u.cpp" timestamp="1520526997883">
         <mark key="[" line="42" column="55" />
@@ -779,6 +801,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/README" timestamp="1523034555729">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/CMakeLists.txt" timestamp="1518552153165">
         <mark key="[" line="17" column="46" />
         <mark key="]" line="18" column="0" />
@@ -933,6 +958,11 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/base58.h" timestamp="1523036230767">
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Common/Log.h" timestamp="1518629175318">
         <mark key="'" line="104" column="9" />
         <mark key="[" line="85" column="0" />
@@ -992,12 +1022,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_balance.cpp" timestamp="1522175510052">
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_balance.cpp" timestamp="1523036528705">
         <mark key="'" line="156" column="0" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
-        <mark key="^" line="141" column="26" />
+        <mark key="[" line="275" column="4" />
+        <mark key="]" line="276" column="27" />
+        <mark key="." line="276" column="27" />
+        <mark key="^" line="276" column="27" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/bitcoindrpcclient.h" timestamp="1506095003653">
         <mark key="[" line="61" column="16" />
@@ -1021,6 +1051,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="1" column="51" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/primitives/transaction.h" timestamp="1523035713796">
+        <mark key="[" line="264" column="19" />
+        <mark key="]" line="264" column="31" />
+        <mark key="." line="264" column="31" />
+        <mark key="^" line="264" column="31" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/mbedtls_net.c" timestamp="1506089249771">
         <mark key="'" line="418" column="4" />
@@ -1213,15 +1249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="11" filename="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" />
-      <jump line="229" column="8" filename="$USER_HOME$/dev/poker/src/Enclave/ssl_client.cpp" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/poker/src/untrusted/command_server.h" />
-      <jump line="37" column="24" filename="$USER_HOME$/dev/poker/src/untrusted/command_server.cc" />
-      <jump line="10" column="18" filename="$USER_HOME$/dev/poker/src/untrusted/command_server.cc" />
-      <jump line="52" column="16" filename="$USER_HOME$/dev/poker/src/Enclave/state.h" />
-      <jump line="25" column="1" filename="$USER_HOME$/dev/poker/src/Enclave/user.hpp" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/poker/src/Enclave/log.h" />
-      <jump line="73" column="4" filename="$USER_HOME$/dev/poker/src/Enclave/log.h" />
       <jump line="105" column="9" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
       <jump line="10" column="14" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/poker/src/Enclave/dealer.cpp" />
@@ -1313,46 +1340,55 @@
       <jump line="53" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/enclave_test.cpp" />
       <jump line="352" column="58" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/merkpath/merkpath.cpp" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/fariness-ocall.cpp" />
+      <jump line="71" column="7" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/script/standard.h" />
+      <jump line="572" column="90" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
+      <jump line="579" column="27" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
+      <jump line="585" column="27" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
+      <jump line="592" column="36" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
+      <jump line="600" column="36" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
+      <jump line="61" column="37" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
+      <jump line="62" column="10" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>n</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>failed</text>
+        <text>variant</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGF0aWMgY29uc3QgTEVBREVSX1RJTUVPVVRfTUlOVVRFUyA9IDI7Cg==</text>
+        <text encoding="base64">dHlwZWRlZiBib29zdDo6dmFyaWFudDxDTm9EZXN0aW5hdGlvbiwgQ0tleUlELCBDU2NyaXB0SUQ+IENUeERlc3RpbmF0aW9uOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGF0aWMgY29uc3QgTEVBREVSX1RJTUVPVVRfTUlOVVRFUyA9IDI7Cg==</text>
+        <text encoding="base64">dHlwZWRlZiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0aWMgY29uc3QgCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImtleXN0b3JlLmgiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbnQgc2V0Q2VydChDZXJ0VHlwZSwgY29uc3QgdW5zaWduZWQgY2hhciAqLCBzaXplX3QsIGNvbnN0IGNoYXIgKik7CiAgaW50IGdldFB1YmtleSgKICAgICAgQ2VydFR5cGUgdHlwZSwKICAgICAgdW5zaWduZWQgY2hhciAqb19wdWJrZXksCiAgICAgIHNpemVfdCBjYXBfcHVia2V5LAogICAgICBjaGFyICpvX2NlcnRfcGVtLAogICAgICBzaXplX3QgY2FwX2NlcnRfcGVtCiAgKTsK</text>
+        <text encoding="base64">ICAgICAgICBiaXRjb2luL3VpbnQyNTYuY3BwCiAgICAgICAgYml0Y29pbi9oYXNoLmNwcAogICAgICAgIGJpdGNvaW4vdXRpbHN0cmVuY29kaW5ncy5jcHAKICAgICAgICBiaXRjb2luL3ByaW1pdGl2ZXMvYmxvY2suY3BwCiAgICAgICAgYml0Y29pbi9wcmltaXRpdmVzL2Jsb2NrLmgKICAgICAgICBiaXRjb2luL2NyeXB0by9obWFjX3NoYTI1Ni5jcHAKICAgICAgICBiaXRjb2luL2NyeXB0by9obWFjX3NoYTUxMi5jcHAKICAgICAgICBiaXRjb2luL2NyeXB0by9zaGEyNTYuY3BwCiAgICAgICAgYml0Y29pbi9jcnlwdG8vc2hhNTEyLmNwcAogICAgICAgIGJpdGNvaW4vY3J5cHRvL3JpcGVtZDE2MC5jcHAKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAsIDEwKTsK</text>
+        <text encoding="base64">ICBzdGF0aWMgY29uc3QgTEVBREVSX1RJTUVPVVRfTUlOVVRFUyA9IDI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gY29tcHV0ZSBhbiBhY3R1YWwgYWNrIG1lc3NhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHhfb25lX2lkLmNfc3RyKCksIHR4X29uZV9jYW5jZWxfaWQuY19zdHIoKSwgdHhfb25lLmRhdGEoKSwgdHhfb25lLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgY29uc3QgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1362,9 +1398,9 @@
       </register>
     </registers>
     <search>
-      <last-search>failed</last-search>
+      <last-search>variant</last-search>
       <last-offset />
-      <last-pattern>failed</last-pattern>
+      <last-pattern>variant</last-pattern>
       <last-replace>auto</last-replace>
       <last-substitute>string</last-substitute>
       <last-dir>1</last-dir>
@@ -1372,9 +1408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>my_verfiy</entry>
-        <entry>get_verify</entry>
-        <entry>conf_verify</entry>
         <entry encoding="base64">XDxteV92ZXJpZnlcPg==</entry>
         <entry>my_verify</entry>
         <entry encoding="base64">XDwiXD4=</entry>
@@ -1392,6 +1425,9 @@
         <entry encoding="base64">XDxMSUJfTUJFRFRMU19QQVRIXD4=</entry>
         <entry encoding="base64">XDxNQkVEVExTX1NHWF9MSUJfVFw+</entry>
         <entry>failed</entry>
+        <entry>glob</entry>
+        <entry encoding="base64">dmFyaWFudDw=</entry>
+        <entry>variant</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
