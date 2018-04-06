@@ -67,9 +67,6 @@
         <mark key="]" line="37" column="19" />
         <mark key="." line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" timestamp="1523036131208">
-        <mark key="'" line="62" column="10" />
-      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/securechannel.h" timestamp="1522435288159">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -144,6 +141,12 @@
         <mark key="]" line="72" column="21" />
         <mark key="." line="72" column="21" />
         <mark key="^" line="72" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/support/cleanse.cpp" timestamp="1523041692158">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/log.h" timestamp="1518631470162">
         <mark key="[" line="1" column="17" />
@@ -347,6 +350,11 @@
         <mark key="]" line="330" column="34" />
         <mark key="." line="330" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/script/script.cpp" timestamp="1523041609871">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/tls_client.cpp" timestamp="1520547523837">
         <mark key="[" line="118" column="102" />
         <mark key="]" line="118" column="102" />
@@ -452,11 +460,13 @@
         <mark key="^" line="11" column="51" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/CMakeLists.txt" timestamp="1523040451737">
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="32" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/support/lockedpool.cpp" timestamp="1523041798693">
+        <mark key="'" line="23" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/CMakeLists.txt" timestamp="1523041639956">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/tls_server_threaded_u.cpp" timestamp="1520526997883">
         <mark key="[" line="42" column="55" />
@@ -1281,12 +1291,8 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/fariness-ocall.cpp" timestamp="1522421764801">
-        <mark key="'" line="170" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="9" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
       <jump line="10" column="14" filename="$USER_HOME$/dev/poker/src/Enclave/deck.h" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/poker/src/Enclave/dealer.cpp" />
       <jump line="3" column="9" filename="$USER_HOME$/dev/poker/src/Enclave/state.h" />
@@ -1386,58 +1392,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
       <jump line="61" column="37" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
       <jump line="62" column="10" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/mapbox/variant.hpp" />
+      <jump line="23" column="9" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/support/lockedpool.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>rt</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>rt</text>
       </register>
       <register name="/" type="4">
-        <text>variant</text>
+        <text>mmap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbnQgcmV0OwogIHZhX2xpc3QgYXA7CiAgY2hhciBidWZbQlVGU0laXSA9IHsnXDAnfTsKICB2YV9zdGFydChhcCwgZm10KTsKICB2c25wcmludGYoYnVmLCBCVUZTSVosIGZtdCwgYXApOwogICAgICB2YV9lbmQoYXApOwogIG9jYWxsX3ByaW50X3RvX3N0ZCgmcmV0LCBidWYpOwogIHJldHVybiByZXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHI7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYXIgc3RyWzY0XTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCByZXQ7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXQ7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9jYWxsX3ByaW50X3RvX3N0ZCgmcmV0LCBidWYpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPG9wZW5zc2wvY3J5cHRvLmg+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIE9QRU5TU0xfY2xlYW5zZShwdHIsIGxlbik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBiaXRjb2luL3NjcmlwdC8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgInRpbnlmb3JtYXQuaCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC1MJHtTRUNQMjU2SzFfTElCX1BBVEh9IFwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBmYW56IG9uIDkvMjAvMTcuCi8vCgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdHI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8jaW5jbHVkZSAidGlueWZvcm1hdC5oIgo=</text>
+        <text encoding="base64">ICAgIGNoYXIgc3RyWzY0XTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZzbnByaW50ZihzdHJwcmludGYoIkNPdXRQb2ludCglcywgJXUpIiwgaGFzaC5Ub1N0cmluZygpLnN1YnN0cigwLDEwKSwgbik7Cg==</text>
+        <text encoding="base64">ICAgIGludCByZXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
       </register>
     </registers>
     <search>
-      <last-search>variant</last-search>
+      <last-search>mmap</last-search>
       <last-offset />
-      <last-pattern>variant</last-pattern>
+      <last-pattern>mmap</last-pattern>
       <last-replace>auto</last-replace>
       <last-substitute>string</last-substitute>
       <last-dir>1</last-dir>
@@ -1445,7 +1452,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxteV92ZXJpZnlcPg==</entry>
         <entry>my_verify</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry>friend</entry>
@@ -1465,6 +1471,7 @@
         <entry>glob</entry>
         <entry encoding="base64">dmFyaWFudDw=</entry>
         <entry>variant</entry>
+        <entry>mmap</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
