@@ -895,6 +895,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="42" column="58" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_balance.cpp" timestamp="1523456396881">
+        <mark key="[" line="359" column="79" />
+        <mark key="]" line="359" column="79" />
+        <mark key="." line="359" column="79" />
+        <mark key="^" line="350" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/dealer.h" timestamp="1512764548968">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="23" />
@@ -913,10 +919,10 @@
         <mark key="^" line="1" column="51" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/primitives/transaction.h" timestamp="1523035713796">
-        <mark key="[" line="264" column="19" />
-        <mark key="]" line="264" column="31" />
-        <mark key="." line="264" column="31" />
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/primitives/transaction.h" timestamp="1523456472967">
+        <mark key="[" line="306" column="41" />
+        <mark key="]" line="306" column="42" />
+        <mark key="." line="306" column="42" />
         <mark key="^" line="264" column="31" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/untrusted/mbedtls_net.c" timestamp="1506089249771">
@@ -926,6 +932,7 @@
         <mark key="^" line="554" column="5" />
         <mark key="." line="554" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/script/interpreter.cpp" timestamp="1523456074192" />
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/scrapers/Scraper.h" timestamp="1518631707205">
         <mark key="[" line="50" column="10" />
         <mark key="]" line="50" column="24" />
@@ -1181,14 +1188,14 @@
       <jump line="38" column="44" filename="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/fairness.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBMTF9OT1RJQ0UoInJlZGVlbVNjcmlwdFxuOiAlcyIsIHJlZGVlbVNjcmlwdC5Ub1N0cmluZygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>throw</text>
@@ -1197,31 +1204,31 @@
         <text encoding="base64">dHlwZWRlZiBzdGQ6OnZlY3RvcjxjaGFyLCB6ZXJvX2FmdGVyX2ZyZWVfYWxsb2NhdG9yPGNoYXI+ID4gQ1NlcmlhbGl6ZURhdGE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBMTF9OT1RJQ0UoInJlZGVlbVNjcmlwdFxuOiAlcyIsIHJlZGVlbVNjcmlwdC5Ub1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICBjb25zdCBDQW1vdW50IGFtb3VudCA9IHByZXZPdXRwdXQublZhbHVlIC0gZmVlOwogIExMX05PVElDRSgiYW1vdW50OiAlbGQiLCBhbW91bnQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMTF9OT1RJQ0UoIiIsIHVuc2lnbmVkVHgpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBDQW1vdW50IGFtb3VudCA9IHByZXZPdXRwdXQublZhbHVlIC0gZmVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjb3V0IDw8IGlzVHhJbmNsdWRlZCgiMjg4YmNhYWEwNTM4OTkyMmQ1ZGExZWUwZTZkMmQwOGU3Mjc3MDc1NGUwYzgzMGFkYmE1MGUwZGFhOTVlZmQ0OCIpIDw8IGVuZGw7CiAgLy8gcmV0dXJuIDA7Cgo=</text>
+        <text encoding="base64">ICBMTF9OT1RJQ0UoInJlZGVlbVNjcmlwdFxuOiAlcyIsIHJlZGVlbVNjcmlwdC5Ub1N0cmluZygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBMTF9OT1RJQ0UoIiIsIHVuc2lnbmVkVHgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0aHJvdyBzdGQ6Omlvc19iYXNlOjpmYWlsdXJlKCJub24tY2Fub25pY2FsIFJlYWRDb21wYWN0U2l6ZSgpIik7Cg==</text>
+        <text encoding="base64">ICAvLyBjb3V0IDw8IGlzVHhJbmNsdWRlZCgiMjg4YmNhYWEwNTM4OTkyMmQ1ZGExZWUwZTZkMmQwOGU3Mjc3MDc1NGUwYzgzMGFkYmE1MGUwZGFhOTVlZmQ0OCIpIDw8IGVuZGw7CiAgLy8gcmV0dXJuIDA7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0aHJvdyBzdGQ6Omlvc19iYXNlOjpmYWlsdXJlKCJub24tY2Fub25pY2FsIFJlYWRDb21wYWN0U2l6ZSgpIik7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICB0aHJvdyBzdGQ6Omlvc19iYXNlOjpmYWlsdXJlKCJub24tY2Fub25pY2FsIFJlYWRDb21wYWN0U2l6ZSgpIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRocm93IHN0ZDo6aW9zX2Jhc2U6OmZhaWx1cmUoIlJlYWRDb21wYWN0U2l6ZSgpOiBzaXplIHRvbyBsYXJnZSIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0aHJvdyBzdGQ6Omlvc19iYXNlOjpmYWlsdXJlKCJub24tY2Fub25pY2FsIFJlYWRDb21wYWN0U2l6ZSgpIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHguCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0aHJvdyBzdGQ6Omlvc19iYXNlOjpmYWlsdXJlKCJub24tY2Fub25pY2FsIFJlYWRDb21wYWN0U2l6ZSgpIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>384</text>
