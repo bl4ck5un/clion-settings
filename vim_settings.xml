@@ -257,7 +257,7 @@
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
-        <mark key="^" line="166" column="0" />
+        <mark key="^" line="169" column="0" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/cmake/FindSGXSuite.cmake" timestamp="1518551606349">
         <mark key="[" line="10" column="15" />
@@ -756,10 +756,10 @@
         <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/primitives/transaction.cpp" timestamp="1523051571330">
-        <mark key="[" line="141" column="41" />
-        <mark key="]" line="141" column="48" />
-        <mark key="." line="141" column="48" />
-        <mark key="^" line="141" column="48" />
+        <mark key="[" line="131" column="41" />
+        <mark key="]" line="131" column="48" />
+        <mark key="." line="131" column="48" />
+        <mark key="^" line="131" column="48" />
       </file>
       <file name="$USER_HOME$/dev/Town-Crier/src/App/logging.cpp" timestamp="1518632570595">
         <mark key="[" line="2" column="0" />
@@ -894,12 +894,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="42" column="58" />
-      </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_balance.cpp" timestamp="1523051269802">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="285" column="0" />
       </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/dealer.h" timestamp="1512764548968">
         <mark key="[" line="9" column="19" />
