@@ -895,12 +895,6 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="42" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/state_balance.cpp" timestamp="1523456396881">
-        <mark key="[" line="359" column="79" />
-        <mark key="]" line="359" column="79" />
-        <mark key="." line="359" column="79" />
-        <mark key="^" line="350" column="19" />
-      </file>
       <file name="$USER_HOME$/dev/poker/src/Enclave/dealer.h" timestamp="1512764548968">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="23" />
@@ -932,7 +926,6 @@
         <mark key="^" line="554" column="5" />
         <mark key="." line="554" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/exchSGX/src/sgx/Enclave/bitcoin/script/interpreter.cpp" timestamp="1523456074192" />
       <file name="$USER_HOME$/dev/Town-Crier/src/Enclave/scrapers/Scraper.h" timestamp="1518631707205">
         <mark key="[" line="50" column="10" />
         <mark key="]" line="50" column="24" />
